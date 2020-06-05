@@ -6,7 +6,7 @@ header:
   og_image: /assets/images/posts/2020-06-05-viaje-sars-cov-2/Covid_SN.jpeg
 categories:
   - Viaje al centro de la ciencia
-published: false
+published: true
 comments: true
 author_profile: true
 tags:
