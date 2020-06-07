@@ -58,7 +58,7 @@ feature_row:
 
 
    <div style="text-align: right;color:#668c99; font-size:0.9em;">"La ciencia, hijo mío, está llena de errores; pero de errores que conviene conocer, porque conducen poco a poco a la verdad."<br>
- <i>Viaje al centro de la tierra</i>, Jules Vernes.</div>
+ <i>Viaje al centro de la tierra</i>, Jules Verne.</div>
   
 &nbsp;
 <html>
