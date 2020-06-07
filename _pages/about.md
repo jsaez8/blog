@@ -55,7 +55,7 @@ Hemos reunido aquí a distintas disciplinas científicas para demostrar que la c
 <div class="row">
   <div class="column" style="background-color:#FFFFFF;">
     <h3>Laura Pérez-Chirinos</h3>
-    <p><img src="https://github.com/CientificasErbias/blog/blob/master/assets/images/laura1600x1200.jpg?raw=true" class="center"><br>¿La mejor manera de evadir mi mente? El piano, la pintura y la cerveza. Amante de los viernes por la noche y de retos nuevos. Debería parar algún minuto quieta, pero eso ya me lo plantearé en otra vida.<br>Graduada en Biotecnología y apasionada de los modelos matemáticos que describen la biología. En un intento de fusionar la investigación computacional con la experimental.<br><b>#MasDinamicaQueMisSimulaciones</b></p>
+    <p><img src="https://github.com/CientificasErbias/blog/blob/master/assets/images/laura1600x1200.jpg?raw=true" class="center"><br>¿La mejor manera de evadir mi mente? El piano, la pintura y la cerveza. Amante de los viernes por la noche y de retos nuevos. Debería parar algún minuto quieta, pero eso ya me lo plantearé en otra vida.<br>Graduada en Biotecnología y apasionada de los modelos matemáticos que describen la biología. En un intento de fusionar la investigación computacional con la experimental.<br><b>#VivoDispersa</b></p>
   </div>
    <div class="column" style="background-color:#FFFFFF;">
       <h3>Judit Sastre Pozo</h3>
