@@ -99,7 +99,7 @@ author:
   #location         : "??"
   #email            : cientificas.erbias@gmail.com
   links:
-    - label: "Email"
+    - label: "cientificas.erbias@gmail.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:cientificas.erbias@gmail.com"
     #- label: "Website"
