@@ -68,6 +68,9 @@ bing_site_verification   :
 yandex_site_verification :
 naver_site_verification  :
 
+# Scheduled posts
+future: false
+
 # Social Sharing
 twitter:
   username               : CientificasEr
