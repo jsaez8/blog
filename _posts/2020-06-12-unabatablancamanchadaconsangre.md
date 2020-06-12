@@ -3,7 +3,7 @@ title: "Una bata blanca manchada con sangre"
 header:
    image: /assets/images/CientificasErbias_reducida.jpg
   caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
-  og_image: /assets/images/posts/2020-06-05-viaje-sars-cov-2/Covid_SN.jpeg
+  og_image: /assets/images/posts/2020-06-12-batablanca/FotoPortada.jpeg
 
 categories:
   -  Crónica de un científico encerrado
@@ -13,7 +13,7 @@ tags:
  - Salud
  - Células madre de la sangre
 
-published: False
+published: True
 comments: true
 date: 2020-06-12 15:30:00 +0200 
 ---
