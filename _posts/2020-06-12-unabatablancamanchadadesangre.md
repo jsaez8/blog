@@ -2,17 +2,17 @@
 title: "Una bata blanca manchada de sangre"
 header:
    image: /assets/images/CientificasErbias_reducida.jpg
-  caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
-  og_image: /assets/images/posts/2020-06-12-batablanca/FotoPortada.jpeg
+   caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
+   og_image: /assets/images/posts/2020-06-12-batablanca/FotoPortada.jpeg
 categories:
-  -  Crónica de un científico encerrado
-published: false
+  - Crónica de un científico encerrado
+published: true
 comments: true
 author_profile: true 
 tags:
- - Investigación biomédica
- - Salud
- - Células madre de la sangre
+   - Investigación biomédica
+   - Salud
+   - Células madre de la sangre
 date: 2020-06-12 15:30:00 +0200 
 
 ---
