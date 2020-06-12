@@ -9,7 +9,7 @@ categories:
   -  Crónica de un científico encerrado
 
 tags:
- - Investigación
+ - Investigación biomédica
  - Salud
  - Células madre de la sangre
 
