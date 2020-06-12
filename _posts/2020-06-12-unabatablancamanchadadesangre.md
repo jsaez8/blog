@@ -17,7 +17,7 @@ tags:
 ---
 <<Ring, ring>>
   
-El sonido me distrae de mi análisis frente al ordenador. Levanto la mirada hacia el teléfono que se encuentra en una esquina del escritorio para, acto seguido, mirar el reloj blanco colgado en la pared del despacho. Son las 12:30. Justo a tiempo. Me levanto para descolgar el teléfono y oigo una voz dulce y suave que aceleradamente me dice:
+El sonido me distrae de mi análisis frente al ordenador. Levanto la mirada hacia el teléfono que se encuentra en una esquina del escritorio para, acto seguido, mirar el reloj blanco colgado en la pared del despacho. Son las 12:30. Justo a tiempo. Me levanto para descolgar el teléfono y oigo una voz dulce y suave que me empieza a hablar en francés:
   
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;-Bonjour Adrián, le sang de cordon est prêt.   
