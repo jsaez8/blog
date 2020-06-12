@@ -16,7 +16,6 @@ tags:
 published: true
 comments: true
 author_profile: true
-
 ---
 <<Ring, ring>>
   
