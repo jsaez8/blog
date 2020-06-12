@@ -53,14 +53,6 @@ Una vez todas aquellas células, que son la base de mi doctorado, quedan retenid
           
 Como aquel astrónomo de Vermeer mirando el globo terráqueo, me encuentro mirando la muestra entre excitado y asustado por la magnitud de preguntas y respuestas que tengo en forma de un simple mililitro de células madre. Una pequeña sonrisa de resignación y felicidad se escapa entre mis labios. Ha sido una largo día para lo que parece un objetivo pequeño, pero la ciencia es así, necesita de paciencia, tiempo, devoción y cabeza para poder seguir avanzando. Mañana empezaré a jugar con esas inocentes células para entender los mecanismos que se esconden y afectan a su toma de decisiones en su camino hacia la madurez. Un camino inexplorado.
 
-&nbsp;  
-&nbsp;  
-&nbsp;
-
-<figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-06-12-batablanca/Alltogether.png"/>
-	<figcaption> **IMAGEN IZQUIERDA** En el tubo de la izquierda podemos observar el contraste entre  la sangre y el Ficoll, sin mezclarse, antes de centrifugar. En el tubo de la derecha observamos las 4 capas que se generan tras la centrifugación. En orden de arriba a abajo: Plasma, células mononucleadas (entre ellas, las células madre hematopoyéticas), Ficoll sobrante y eritrocitos asociados a Ficoll. **IMAGEN DERECHA** El siguiente paso es seleccionar las células madre dentro de todas las células mononucleadas. Para ello, utilizamos unas columnas por las que pasan las células mononucleadas con anticuerpos, quedándose atrapadas las células madre en la región negra, donde se encuentra el imán. A la derecha un esquema del proceso de captación de anticuerpos asociados a la proteína CD34 de las células madre hematopoyéticas, gracias a la fuerza magnética producida entre el imán y la bola imantada del anticuerpo. </figcaption>
-</figure>
 
 &nbsp;  
 &nbsp;  
@@ -76,4 +68,13 @@ Como aquel astrónomo de Vermeer mirando el globo terráqueo, me encuentro miran
 </span>
 {: .notice--primary}   
 
+&nbsp;  
+&nbsp;  
+&nbsp;
+**Figura**
+&nbsp; 
+<figure>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-06-12-batablanca/Alltogether.png"/>
+	<figcaption> <b>IMAGEN IZQUIERDA:<b> En el tubo de la izquierda podemos observar el contraste entre  la sangre y el Ficoll, sin mezclarse, antes de centrifugar. En el tubo de la derecha observamos las 4 capas que se generan tras la centrifugación. En orden de arriba a abajo: Plasma, células mononucleadas (entre ellas, las células madre hematopoyéticas), Ficoll sobrante y eritrocitos asociados a Ficoll. <b>IMAGEN DERECHA:</b> El siguiente paso es seleccionar las células madre dentro de todas las células mononucleadas. Para ello, utilizamos unas columnas por las que pasan las células mononucleadas con anticuerpos, quedándose atrapadas las células madre en la región negra, donde se encuentra el imán. A la derecha un esquema del proceso de captación de anticuerpos asociados a la proteína CD34 de las células madre hematopoyéticas, gracias a la fuerza magnética producida entre el imán y la bola imantada del anticuerpo. </figcaption>
+</figure>
 --- 
