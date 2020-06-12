@@ -77,3 +77,5 @@ Como aquel astrónomo de Vermeer mirando el globo terráqueo, me encuentro miran
 **Células mononucleadas**: En células de la sangre, este término hace referencia a la morfología redondeada del núcleo, siendo el caso de las células madre hematopoyéticas, linfocitos y los monocitos. 
 </span>
 {: .notice--primary}   
+
+--- 
