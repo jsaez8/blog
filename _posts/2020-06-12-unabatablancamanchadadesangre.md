@@ -1,5 +1,5 @@
 ---
-title: "Una bata de color blanco salpicada de sangre"
+title: "Una bata blanca manchada de sangre"
 header:
    image: /assets/images/CientificasErbias_reducida.jpg
   caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
