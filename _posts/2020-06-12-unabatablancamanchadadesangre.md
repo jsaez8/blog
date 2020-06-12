@@ -4,18 +4,15 @@ header:
    image: /assets/images/CientificasErbias_reducida.jpg
   caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
   og_image: /assets/images/posts/2020-06-12-batablanca/FotoPortada.jpeg
-
 categories:
   -  Crónica de un científico encerrado
-
+published: true
+comments: true
+author_profile: true 
 tags:
  - Investigación biomédica
  - Salud
  - Células madre de la sangre
-
-published: true
-comments: true
-author_profile: true 
 
 ---
 <<Ring, ring>>
