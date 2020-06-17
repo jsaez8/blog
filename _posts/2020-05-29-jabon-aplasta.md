@@ -36,8 +36,8 @@ que pueda infectarnos.
 Nico me mira con los ojos como platos. Vale, paso a paso. ¿Qué significa todo esto? 
 
 La clave para entender cómo actúa el jabón sobre los virus (también sobre bacterias y, de forma similar, sobre la suciedad) es que está
-formado por moléculas *anfifílicas*. Esto significa que tienen una cabeza hidrofílica – interacciona favorablemente con el agua- y una
-cola hidrofóbica -rehúye el agua-.  Al disolver jabón en agua, las moléculas se ordenan de acuerdo con su naturaleza anfifílica: 
+formado por moléculas *anfifílicas*. Esto significa que tienen una cabeza hidrofílica —interacciona favorablemente con el agua— y una
+cola hidrofóbica —rehúye el agua—.  Al disolver jabón en agua, las moléculas se ordenan de acuerdo con su naturaleza anfifílica: 
 a concentraciones bajas, las moléculas de jabón se sitúan en la interfase agua/aire con las cabezas hidrofílicas en contacto con el agua;
 a concentraciones más altas, las moléculas de jabón se ordenan en la solución acuosa formando *micelas*, es decir, se agrupan para formar
 esferas con las cabezas apuntando hacia el exterior y las colas protegidas del agua en el interior.
@@ -45,7 +45,7 @@ esferas con las cabezas apuntando hacia el exterior y las colas protegidas del a
 ![Figura 1]({{ "/assets/images/posts/2020-05-29-jabon-aplasta/Figura1-580x300.png" | relative_url }}){: .align-center}
 
 A su vez, los lípidos que forman la envoltura vírica también son moléculas anfifílicas que, en este caso, forman *bicapas lipídicas*
-– micelas de doble capa con las cabezas hidrofílicas separando las colas hidrofóbicas del agua-.
+—micelas de doble capa con las cabezas hidrofílicas separando las colas hidrofóbicas del agua—.
 
 ![Figura 2]({{"/assets/images/posts/2020-05-29-jabon-aplasta/Figura2-580x300.png" | relative_url }}){: .align-center}
 
