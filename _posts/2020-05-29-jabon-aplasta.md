@@ -28,8 +28,8 @@ partículas hacia el exterior.
 ¿Cuál fue la reacción de Nico? Preguntar si “los coronavirus huyen del jabón”. Vaya, parece que Nico aún no entiende qué suerte
 corren los virus cuando nos lavamos las manos.
 
-Los virus son *nanopartículas* constituidas por *material genético*, *proteínas* y, en algunos casos, por una *bicapa lipídica* que los envuelve.
-Todos estos componentes se autoensamblan mediante *interacciones débiles* que constituyen el talón de Aquiles de los virus. En el caso de los
+Los virus son <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/lo%20cotidiano%20es%20ciencia/jabon-aplasta/index.html#target">nanopartículas</a> constituidas por <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/lo%20cotidiano%20es%20ciencia/jabon-aplasta/index.html#target">material genético</a>, <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/lo%20cotidiano%20es%20ciencia/jabon-aplasta/index.html#target">proteínas</a> y, en algunos casos, por una <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/lo%20cotidiano%20es%20ciencia/jabon-aplasta/index.html#target">bicapa lipídica</a> que los envuelve.
+Todos estos componentes se autoensamblan mediante <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/lo%20cotidiano%20es%20ciencia/jabon-aplasta/index.html#target">interacciones débiles</a> que constituyen el talón de Aquiles de los virus. En el caso de los
 virus con bicapa lipídica, como el del infame coronavirus, al lavarnos las manos el jabón disuelve la bicapa y el virus se rompe impidiendo
 que pueda infectarnos.
 
@@ -62,7 +62,7 @@ el jabón rompe los virus.
 
 {% include video id="1fGYgeTWdnJjd-abLLCRaeB86TLGS2G8m" provider="google-drive" %}
 
-En este caso, al mezclar agua y aceite estos se separan ya que no son *miscibles*. Cuando añadimos agua con jabón, se forman pequeñas 
+En este caso, al mezclar agua y aceite estos se separan ya que no son <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/lo%20cotidiano%20es%20ciencia/jabon-aplasta/index.html#target">miscibles</a>. Cuando añadimos agua con jabón, se forman pequeñas 
 esferas de aceite en el agua por la acción de las moléculas anfifílicas de jabón. En este caso, las micelas que forman las moléculas 
 de jabón rodean gotas de aceite *estabilizando* la mezcla agua/aceite.
 
@@ -81,7 +81,7 @@ faltar a la verdad ¡Casi nada!
 &nbsp;  
 &nbsp;   
 
-<span style="font-size:1.5em">**Glosario**</span>
+<span style="font-size:1.5em"><a id="target" style= "color:black"><b>Glosario</b></a></span>
 &nbsp;   
 <span style="font-size:1.25em">**Nanopartícula**: Cualquier partícula cuyo tamaño esté en el orden del nanómetro. En el caso de los virus, suelen medir entre 20 y 
 250 nanómetros, es decir, entre 0’000000002 y 0’00000025 metros.   
