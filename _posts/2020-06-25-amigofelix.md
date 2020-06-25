@@ -6,7 +6,7 @@ header:
   og_image: /assets/images/posts/2020-06-26-amigofelix/Felix2.jpg
 categories:
   - Lo que la ciencia se llevó
-published: true
+published: false
 comments: true
 author_profile: true
 tags:
