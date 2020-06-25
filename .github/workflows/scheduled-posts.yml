@@ -2,7 +2,7 @@ name: Build every Friday
 
 on:
   schedule:
-   - cron: '*/5 * * * *'
+   - cron: '*/2 * * * *'
 jobs:
   curl:
     runs-on: ubuntu-latest
