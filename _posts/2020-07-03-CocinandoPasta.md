@@ -53,7 +53,7 @@ P.D.: los más observadores os habréis dado cuenta que en la primera figura la 
 &nbsp;   
 <span style="font-size:1.25em">
 **Termodinámica**: Rama de la física que estudia sistemas compuestos por muchas partículas que están en equilibrio. En vez de considerar las propiedades de cada una de las partículas para comprender todo el sistema, la termodinámica utiliza magnitudes macroscópicas, como la presión o la temperatura, para describir el sistema.
-	
+&nbsp;  
 **Energía libre de Gibbs**: Cantidad de energía de la que dispone un sistema termodinámico a una temperatura y a una presión constantes.
 </span>
 {: .notice--primary}    
