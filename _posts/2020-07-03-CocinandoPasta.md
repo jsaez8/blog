@@ -28,7 +28,7 @@ Para los escépticos os propongo un experimento muy sencillo. Poned a calentar a
 <p style="color:red">Nota: para hacer este experimento no vale cualquier termómetro. Es muy importante que el termómetro se pueda sumergir en agua y soporte al menos hasta 100 grados, como por ejemplo un termómetro de cocina. </p>
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-07-03-CocinandoPasta/Experimento2.jpg"/>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-07-03-CocinandoPasta/Experimento_2.jpg"/>
 	<figcaption> Cuando calentamos agua y medimos su temperatura a medida que pasa el tiempo observamos que se calienta a un ritmo constante hasta que comienza a hervir. A partir de ese momento la temperatura se mantiene constante en el tiempo, con una pequeña oscilación. Estas variaciones en la temperatura se deben al tipo de termómetro usado para medir.
 </figcaption>
 </figure>
@@ -40,7 +40,7 @@ Quizás algunos os preguntéis, «y si quiero cocinar más rápido ¿qué puedo 
 Las ollas express cocinan más rápido que las tradicionales porque son capaces de alcanzar mayores temperaturas por medio de aumentar la presión en su interior. Al colocar la tapa de la olla express evitamos que parte del vapor de agua escape y esto aumenta la presión dentro de la olla porque hay más gas en el mismo volumen. Como consecuencia del aumento de presión, la temperatura de ebullición del agua es mayor, lo que permite alcanzar temperaturas más altas y cocinar nuestra comida más rápido. Por cierto, nunca es una buena idea intentar manipular la válvula de escape de las ollas porque es el elemento de seguridad que evita que explote por tener demasiada presión.
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-07-03-CocinandoPasta/Experimento1.jpg"/>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-07-03-CocinandoPasta/Experimento_1.jpg"/>
 	<figcaption> Esta gráfica muestra la temperatura a la que hierve el agua en función de la presión del aire que la rodea. La cantidad de aire es menor en regiones altas, por lo que la presión atmosférica es más baja y el agua hierve a temperaturas menores. Sin embargo, si aumentamos la presión, el punto de ebullición se eleva.</figcaption>
 </figure>
 
