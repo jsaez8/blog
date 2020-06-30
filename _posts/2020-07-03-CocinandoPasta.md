@@ -41,3 +41,20 @@ Ya tenemos nuestros espaguetis listos. Ahora lo más importante ¿se deben parti
 ¡Qué aproveche!
 
 P.D.: los más observadores os habréis dado cuenta que en la gráfica 1 la temperatura de ebullición del agua no llega a 100 grados. Teniendo en cuenta lo que hemos aprendido en la figura 2, ¿sabríais decir porqué ocurre esto?
+
+<span style="font-size:1.5em"><a id="target" style= "color:black"><b>Glosario</b></a></span>
+&nbsp;   
+<span style="font-size:1.25em">
+**Termodinámica**: Rama de la física que estudia sistemas compuestos por muchas partículas que están en equilibrio. En vez de considerar las propiedades de cada una de las partículas para comprender todo el sistema, la termodinámica utiliza magnitudes macroscópicas, como la presión o la temperatura, para describir el sistema.
+**Energía libre de Gibbs**: Cantidad de energía de la que dispone un sistema termodinámico a una temperatura y a una presión constantes.
+</span>
+{: .notice--primary}    
+
+---
+**Para saber más**
+
+* En el post hablábamos de cómo afecta la presión a la temperatura de ebullición del agua. Si se disminuye la presión lo suficiente, podemos conseguir que el agua hierva a temperatura ambiente. Mira este [vídeo](https://www.youtube.com/watch?v=In7vZ0PkHZQ){:target="_blank"}
+
+* Aquí tenéis otro [vídeo](https://www.youtube.com/watch?v=VUlu2SgNYRI){:target="_blank"}, donde además se explica cómo funcionan algunos electrodomésticos de nuestras cocinas. 
+
+* Cocina y ciencia van de la mano. Si queréis saber más sobre qué ocurre cuando se cocinan los alimentos echad un ojo a este pequeño [resumen](https://es.wikipedia.org/wiki/Cocci%C3%B3n_de_alimentos){:target="_blank"} 
