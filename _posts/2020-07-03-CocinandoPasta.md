@@ -29,7 +29,7 @@ Para los escépticos os propongo un experimento muy sencillo. Poned a calentar a
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-07-03-CocinandoPasta/Experimento_2.jpg"/>
-	<figcaption> **Figura 2.** Cuando calentamos agua y medimos su temperatura a medida que pasa el tiempo observamos que se calienta a un ritmo constante hasta que comienza a hervir. A partir de ese momento la temperatura se mantiene constante en el tiempo, con una pequeña oscilación. Estas variaciones en la temperatura se deben al tipo de termómetro usado para medir.
+	<figcaption> **Figura 1**. Cuando calentamos agua y medimos su temperatura a medida que pasa el tiempo observamos que se calienta a un ritmo constante hasta que comienza a hervir. A partir de ese momento la temperatura se mantiene constante en el tiempo, con una pequeña oscilación. Estas variaciones en la temperatura se deben al tipo de termómetro usado para medir.
 </figcaption>
 </figure>
 
@@ -41,7 +41,7 @@ Las ollas express cocinan más rápido que las tradicionales porque son capaces 
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-07-03-CocinandoPasta/Experimento_1.jpg"/>
-	<figcaption> **Figura 2.** Esta figura muestra la temperatura a la que hierve el agua en función de la presión del aire que la rodea. La cantidad de aire es menor en regiones altas, por lo que la presión atmosférica es más baja y el agua hierve a temperaturas menores. Sin embargo, si aumentamos la presión, el punto de ebullición se eleva.</figcaption>
+	<figcaption> **Figura 2**. Esta figura muestra la temperatura a la que hierve el agua en función de la presión del aire que la rodea. La cantidad de aire es menor en regiones altas, por lo que la presión atmosférica es más baja y el agua hierve a temperaturas menores. Sin embargo, si aumentamos la presión, el punto de ebullición se eleva.</figcaption>
 </figure>
 
 Ya tenemos nuestros espaguetis listos. Ahora lo más importante ¿se deben partir los espaguetis a la mitad antes de cocerlos?
