@@ -69,7 +69,7 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Scheduled posts
-future: false
+future: true
 
 # Social Sharing
 twitter:
