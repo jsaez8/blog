@@ -27,7 +27,11 @@ Para los escépticos os propongo un experimento muy sencillo. Poned a calentar a
 
 <p style="color:red">Nota: para hacer este experimento no vale cualquier termómetro. Es muy importante que el termómetro se pueda sumergir en agua y soporte al menos hasta 100 grados, como por ejemplo un termómetro de cocina. </p>
 
-FIGURA
+<figure>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-07-03-CocinandoPasta/Experimento2.jpg"/>
+	<figcaption> Cuando calentamos agua y medimos su temperatura a medida que pasa el tiempo observamos que se calienta a un ritmo constante hasta que comienza a hervir. A partir de ese momento la temperatura se mantiene constante en el tiempo, con una pequeña oscilación. Estas variaciones en la temperatura se deben al tipo de termómetro usado para medir.
+</figcaption>
+</figure>
 
 ¿Y esto para qué puede servir? Pues para lo que al parecer más nos importa: para ahorrar dinero. Uno de los factores más importantes a la hora de cocinar es la temperatura, cuanto mayor sea esta antes se cocinarán nuestros alimentos. Como ya sabemos que el agua estará a 100 grados siempre y cuando esté hirviendo, nuestros espaguetis se cocinarán igual de rápido aunque tengamos el fuego más bajo. Ya podemos echar nuestros espaguetis a la cazuela para que se hagan. 
 
@@ -35,7 +39,10 @@ Quizás algunos os preguntéis, «y si quiero cocinar más rápido ¿qué puedo 
 
 Las ollas express cocinan más rápido que las tradicionales porque son capaces de alcanzar mayores temperaturas por medio de aumentar la presión en su interior. Al colocar la tapa de la olla express evitamos que parte del vapor de agua escape y esto aumenta la presión dentro de la olla porque hay más gas en el mismo volumen. Como consecuencia del aumento de presión, la temperatura de ebullición del agua es mayor, lo que permite alcanzar temperaturas más altas y cocinar nuestra comida más rápido. Por cierto, nunca es una buena idea intentar manipular la válvula de escape de las ollas porque es el elemento de seguridad que evita que explote por tener demasiada presión.
 
-FIGURA
+<figure>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-07-03-CocinandoPasta/Experimento1.jpg"/>
+	<figcaption> Esta gráfica muestra la temperatura a la que hierve el agua en función de la presión del aire que la rodea. La cantidad de aire es menor en regiones altas, por lo que la presión atmosférica es más baja y el agua hierve a temperaturas menores. Sin embargo, si aumentamos la presión, el punto de ebullición se eleva.</figcaption>
+</figure>
 
 Ya tenemos nuestros espaguetis listos. Ahora lo más importante ¿se deben partir los espaguetis a la mitad antes de cocerlos?
 ¡Qué aproveche!
@@ -53,8 +60,8 @@ P.D.: los más observadores os habréis dado cuenta que en la gráfica 1 la temp
 ---
 **Para saber más**
 
-* En el post hablábamos de cómo afecta la presión a la temperatura de ebullición del agua. Si se disminuye la presión lo suficiente, podemos conseguir que el agua hierva a temperatura ambiente. Mira este [vídeo](https://www.youtube.com/watch?v=In7vZ0PkHZQ){:target="_blank"}
+* En el post hablábamos de cómo afecta la presión a la temperatura de ebullición del agua. Si se disminuye la presión lo suficiente, podemos conseguir que el agua hierva a temperatura ambiente. Mira este [vídeo](https://www.youtube.com/watch?v=In7vZ0PkHZQ){:target="_blank"}.
 
 * Aquí tenéis otro [vídeo](https://www.youtube.com/watch?v=VUlu2SgNYRI){:target="_blank"}, donde además se explica cómo funcionan algunos electrodomésticos de nuestras cocinas. 
 
-* Cocina y ciencia van de la mano. Si queréis saber más sobre qué ocurre cuando se cocinan los alimentos echad un ojo a este pequeño [resumen](https://es.wikipedia.org/wiki/Cocci%C3%B3n_de_alimentos){:target="_blank"} 
+* Cocina y ciencia van de la mano. Si queréis saber más sobre qué ocurre cuando se cocinan los alimentos echad un ojo a este pequeño [resumen](https://es.wikipedia.org/wiki/Cocci%C3%B3n_de_alimentos){:target="_blank"}.
