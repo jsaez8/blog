@@ -3,7 +3,7 @@ title: "Cocinando pasta: La termodinámica según mi madre."
 header:
   image: /assets/images/CientificasErbias_reducida.jpg
   caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
-  og_image: imagen para redes sociales
+  og_image: /assets/images/posts/2020-07-03-CocinandoPasta/og_image.jpg
 categories:
   - Lo cotidiano es ciencia
 comments: true
