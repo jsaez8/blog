@@ -1,5 +1,5 @@
 ---
-title: "Cocinando pasta: La termodinámica según mi madre."
+title: "Cocinando pasta: La termodinámica según mi madre"
 header:
   image: /assets/images/CientificasErbias_reducida.jpg
   caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
