@@ -6,7 +6,6 @@ header:
   og_image: /assets/images/homepage/frikadas.jpg
 categories:
   - Breaking Lab
-published: false
 comments: true
 author_profile: true
 tags:
@@ -175,7 +174,7 @@ Por nuestra parte, nada más. Queremos deciros que estamos disponibles para cual
 
 
 ---
-**Para saber más**
+<a id="target" style= "color:black"><b>Para saber más</b></a>
 
 * [Sociedad Española de Bioquímica y Biología Molecular (Salidas profesionales)](https://www.sebbm.es/web/es/divulgacion/salidas-profesionales){:target="_blank"} 
 * [Salidas laborables de la Bioquímica y Biotecnología](https://www.bioemprender.com/guia-10-mejores-salidas-cientificas/){:target="_blank"}
