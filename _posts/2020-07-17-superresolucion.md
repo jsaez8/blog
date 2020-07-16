@@ -13,7 +13,7 @@ tags:
   - Superresolución
   - STED
   - SMLM
-date: 2020-07-17 15:30:00 +0200
+published: true
 --- 
 <style>
 img {
