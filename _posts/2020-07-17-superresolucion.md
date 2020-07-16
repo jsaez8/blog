@@ -13,7 +13,7 @@ tags:
   - Superresolución
   - STED
   - SMLM
-published: true
+date: 2020-07-17 15:30:00 +0200
 --- 
 
 A finales del siglo XIX, el físico alemán Ernst Abbe postuló que “es imposible discernir dos elementos más cercanos entre sí que la mitad de la <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/superresolucion/index.html#target">longitud de onda</a> de la luz empleada”.  Y durante muchos años, así fue. Pero como os imaginaréis, los biólogos necesitaban ver las estructuras más finas de sus células y a los físicos no les gustaba eso de que la naturaleza les impusiera un límite —¡¿Quién se cree que es?!, decían.
