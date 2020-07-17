@@ -3,7 +3,7 @@ title: "Microscopía de superresolución o cómo reírnos de los límites de la 
 header:
   image: /assets/images/CientificasErbias_reducida.jpg
   caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
-  og_image: /assets/images/posts/2020-07-17-superresolucion/comparison.jpg
+  og_image: /assets/images/posts/2020-07-17-superresolucion/imagen_top.jpg
 categories:
   - Viaje al centro de la ciencia
 comments: true
