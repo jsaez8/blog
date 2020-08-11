@@ -7,9 +7,11 @@ author_profile: true
 Además de escribir los posts también intentamos hacer minihilos en Twitter. Aquí los podéis encontrar todos:
 
 [1. La multidisciplinaridad en la carrera espacial.](https://twitter.com/CientificasEr/status/1267097399383797761){:target="_blank"}  
-&nbsp; 
-![Figura 2]({{"/assets/images/hilos/spacex.jpg" | relative_url }}){: .align-left}  
-&nbsp; 
+
+<figure>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/hilos/spacex.jpg"/>
+</figure>
+
 [2. ¿Cómo se divide una célula?](https://twitter.com/CientificasEr/status/1271123702755864579){:target="_blank"} 
 &nbsp; 
 ![Figura 2]({{"/assets/images/hilos/celuladiv.JPG" | relative_url }}){: .align-left} 
