@@ -12,7 +12,7 @@ Además de escribir los posts también intentamos hacer minihilos en Twitter. Aq
 ![Figura 2]({{"/assets/images/hilos/spacex.jpg" | relative_url }}){: .align-left}  
 <br>
 
-<\br>
+<br\>
 
 [2. ¿Cómo se divide una célula?](https://twitter.com/CientificasEr/status/1271123702755864579){:target="_blank"} 
 
@@ -20,7 +20,7 @@ Además de escribir los posts también intentamos hacer minihilos en Twitter. Aq
 
 <br>
 
-<\br>
+<br\>
 
 [3. Condensados de Bose-Einstein en el espacio.](https://twitter.com/CientificasEr/status/1272108561729019914){:target="_blank"}  
 
