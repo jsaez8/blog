@@ -11,7 +11,7 @@ Además de escribir los posts también intentamos hacer minihilos en Twitter. Aq
 
 ![Figura 2]({{"/assets/images/hilos/spacex.jpg" | relative_url }}){: .align-left}  
 
-
+&nbsp;
 [2. ¿Cómo se divide una célula?](https://twitter.com/CientificasEr/status/1271123702755864579){:target="_blank"} <br/>
 
 ![Figura 2]({{"/assets/images/hilos/celuladiv.JPG" | relative_url }}){: .align-left} <br/>
