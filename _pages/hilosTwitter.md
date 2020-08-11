@@ -21,5 +21,6 @@ Además de escribir los posts también intentamos hacer minihilos en Twitter. Aq
 [7. ¿Cuál es el efecto de la mascarilla?](https://twitter.com/CientificasEr/status/1277300650993504259){:target="_blank"}
 
 [8. Antenas: porqué no te deben preocupar.](https://twitter.com/CientificasEr/status/1280877879295909893){:target="_blank"}
+![Figura 2]({{"/assets/images/posts/2020-05-29-jabon-aplasta/Figura2-580x300.png" | relative_url }}){: .align-left}
 
 [9. ¿A qué huele una tormenta de verano?](https://twitter.com/CientificasEr/status/1292476615017013248){:target="_blank"}
