@@ -9,7 +9,7 @@ Además de escribir los posts también intentamos hacer minihilos en Twitter. Aq
 [1. La multidisciplinaridad en la carrera espacial.](https://twitter.com/CientificasEr/status/1267097399383797761){:target="_blank"}
 
 ![Figura 2]({{"/assets/images/hilos/spacex.jpg" | relative_url }}){: .align-left}
-
+<br>
 
 [2. ¿Cómo se divide una célula?](https://twitter.com/CientificasEr/status/1271123702755864579){:target="_blank"}
 
