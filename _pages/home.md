@@ -41,7 +41,7 @@ feature_row:
     url: "https://cientificaserbias.github.io/blog/categories/#breaking-lab"
     btn_class: "btn--primary"
     btn_label: "Únete al lado oscuro de la ciencia"  
-  - image_path: /assets/images/homepage/frikadas.jpg
+  - image_path: /assets/images/homepage/TwitterLogo.jpg
     alt: "Nuestros hilos en Twitter"
     title: "Nuestros hilos en Twitter"
     excerpt: "También escribimos cosas por aquí."
