@@ -41,6 +41,13 @@ feature_row:
     url: "https://cientificaserbias.github.io/blog/categories/#breaking-lab"
     btn_class: "btn--primary"
     btn_label: "Únete al lado oscuro de la ciencia"  
+  - image_path: /assets/images/homepage/frikadas.jpg
+    alt: "Nuestros hilos en Twitter"
+    title: "Nuestros hilos en Twitter"
+    excerpt: "También escribimos cosas por aquí."
+    url: "https://jsaez8.github.io/blog/hilosTwitter/"
+    btn_class: "btn--primary"
+    btn_label: "Esperamos que no pierdas el hilo de la historia"  
 ---
 <ul class="social-icons">
   {% if site.data.ui-text[site.locale].follow_label %}
