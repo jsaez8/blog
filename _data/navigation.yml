@@ -6,6 +6,8 @@ main:
     url: /categories/
   - title: "Etiquetas"
     url: /tags/
+  - title: "Hilos en Twitter"
+    url: /hilosTwitter/
   - title: "Sobre nosotros"
     url: /sobrenosotros/
   # - title: "Sitemap"
