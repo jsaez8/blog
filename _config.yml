@@ -44,8 +44,8 @@ comments:
     theme                : # "github-light" (default), "github-dark"
     issue_term           : # "pathname" (default)
   staticman:
-    branch               : # "master"
-    endpoint             : # "https://{your Staticman v3 API}/v3/entry/github/"
+    branch               :  "master"
+    endpoint             :  "https://erbias-comentarios-test.herokuapp.com/v2/entry/inesmm6/blog/master/comments"
 reCaptcha:
   siteKey                : 6LfLwMMZAAAAAJYYMPX-Z33N8qTbrCdVScrVpyma
   secret                 : ZRd/HD/6RofDwGK0t4e79kIUE1k2RaaN95j4q15tV6AnvOdNxE2ywTCkAeQuiW060SrTVJ+ebBw4Ffs+vzkyUolfVHtHGCqyfUKlrG5Bf6Dy/XT4jhzytBRVbcJqw6U6PZm0wQ9/QuoniRZWflwQwT/b1+AGfVjnFNUWi3d2b+4nfjHE7jSsvl04HMTST+r29Hq08/QDemJU085IIk38LRtuFsKFs624Zz1vjfImmQj37KOTk3JsINpOFaJVeIeiM7i8BnHhPyuaPw/Osj52VGoE0si2lfaw7ibFLuZCKqLYsswrzPA1HoE3Bxv1cmy45M0B9cRdXFEwY4Z8uUpMcadmrXzrtBrGyKWKl7vi4xa9IOBJpefGXSE3IG6kIGc/aOgYYQJeNNcGCCBCXKvbS75holy0wDH4WV2QQ58IzOlaFT5F/lzNzPm/76Evd0KwiomlmncKipnyWR/xKSIpa6+FS/Zn4mq+M4ymLsFXKqTA4KSuVoQ6N0YuHfuVjkJni6l+Hjlqe/3dwQU1vxAAhTRI33QINF0/sJuXw9a3ur2dCu+zfEoxS5JEmY8qdnxEfOCgl2mOGxVMaST16ndEA/QV+/ekeFxnmdKeKLuQ/sY0B7jPHa9I16z2qgFWWdtLzDHW00Wexm3ELFME+ZLkS8WiqJdIhyIu6itEEIeKkeM=
