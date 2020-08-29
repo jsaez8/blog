@@ -5,13 +5,14 @@ $base-font-size:    18px !default;
 $comment-font-size: 17px !default;
 $brand-color:       #1E72DC !default;
 $grey-color:        #757575 !default;
+$base-font-weight:  normal;
 
 //
 // Staticman new comment form
 //
 input, select, textarea, label, button {
 //    @extend body;
-    font: $base-font-family;// $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
+    font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
     color: $text-color;
     background-color: $background-color;
     -webkit-text-size-adjust: 100%;
