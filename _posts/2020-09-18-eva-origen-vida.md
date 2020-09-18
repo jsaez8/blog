@@ -57,7 +57,7 @@ La actividad de los volcanes decrecía y la atmósfera de polvo se disipaba perm
   
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-09-18-eva_origen_vida/Estromatolitos.png"/>
-	<figcaption> Los depósitos carbonatados conocidos como estromatolitos (strom) se pueden observar señalados en la imagen b, mientras que en la C observamos su organización en láminas. Nutman A. P. et al. 2016, Nature. </figcaption>
+	<figcaption> Los depósitos carbonatados conocidos como estromatolitos (strom) se pueden observar señalados en la imagen b, mientras que en la C observamos su organización en láminas. *Nutman A. P. et al. 2016, Nature.* </figcaption>
 </figure>
 
 
@@ -71,7 +71,7 @@ La actividad de los volcanes decrecía y la atmósfera de polvo se disipaba perm
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-09-18-eva_origen_vida/Chim-hidro.png"/>
-	<figcaption> Chimenea hidrotermal. Marum Forschungszentrum Ozeanränder, Universität Bremem.</figcaption>
+	<figcaption> Chimenea hidrotermal. *Marum Forschungszentrum Ozeanränder, Universität Bremem.*</figcaption>
 </figure>
 
 ---
