@@ -8,11 +8,12 @@ categories:
   - Crónica de un científico encerrado
 comments: true
 author_profile: true
+published: true
 tags:
   - RayosX
   - Biología estructural
   - Autobiografías
-date: 2020-09-25 15:30:00 +0200
+date: 2020-09-24 15:30:00 +0200
 --- 
 
 Joder, qué frío. Y otra vez lloviendo. Pero claro, es Hamburgo, estamos a principios de marzo, ¿qué esperaba? Seguro que en Madrid está haciendo un sol espléndido.
