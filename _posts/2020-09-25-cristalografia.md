@@ -29,7 +29,7 @@ Afortunadamente mi proteína tardó muy poco en formar cristales así que no tuv
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-09-25-cristalografia/crystals.jpg"/>
-	<figcaption> <b>Derecha</b>: Los hay más grandes y más bonitos pero a estos les tengo especial cariño. ¡Son los primeros cristales que conseguí crecer! <b>Izquierda</b>: Cristales de mi compi de despacho Don Song. Ya sé… son mucho más bonitos. Pero es que él lleva más tiempo en esto… (si queréis ver cristales muy muy bonitos podéis ver el link al concurso que os pongo en el apartado “Para saber más”).
+	<figcaption> <b>Izquierda</b>: Los hay más grandes y más bonitos pero a estos les tengo especial cariño. ¡Son los primeros cristales que conseguí crecer! <b>Derecha</b>: Cristales de mi compi de despacho Don Song. Ya sé… son mucho más bonitos. Pero es que él lleva más tiempo en esto… (si queréis ver cristales muy muy bonitos podéis ver el link al concurso que os pongo en el apartado “Para saber más”).
 .</figcaption>
 </figure>
 
