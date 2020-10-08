@@ -1,0 +1,89 @@
+---
+title: "Agujeros negros: El secreto está en la masa"
+header:
+  image: /assets/images/CientificasErbias_reducida.jpg
+  caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
+  og_image: /assets/images/posts/2020-10-02-agujeros/gargantua.jpg
+categories:
+  - Viaje al centro de la ciencia
+comments: true
+published: true
+author_profile: true
+tags:
+  - Agujeros negros
+  - Astrofísica
+--- 
+
+La ciencia está cada vez más presente en las obras cinematográficas y, aunque a veces es de manera errónea o sobreactuada, si hay algo que se lleve la palma, un comodín para explicar lo inexplicable, un argumento para que todo sea posible, esos son los agujeros negros. Los hemos visto utilizados para acceder a múltiples dimensiones en Interstellar o para dar saltos de 33 años en el tiempo al futuro o al pasado en la serie alemana Dark. ¡Incluso los Simpson usan este objeto para explicar por qué Homer puede ver a una persona que los demás no!
+
+<figure>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-10-02-agujeros/gargantua.jpg" style="width:70%" class="center">
+	<figcaption> Gargantúa, agujero negro de la película Interstellar.</figcaption>
+</figure>
+
+¿Se puede viajar en el tiempo? ¿Existen otras dimensiones y podemos acceder a ellas a través de los agujeros negros? ¿Puede una persona hacerse invisible? ¿De verdad existe un objeto en el universo que haga todo esto posible? Son muchas preguntas, pero empecemos por algo más básico: ¿Qué es un agujero negro?
+
+Todo empieza hace un siglo de la mano del de siempre: Albert Einstein. En 1915 publica la teoría que nos ayuda a entender la naturaleza y características de nuestro universo: la Teoría de la Relatividad General. Marca así un antes y un después en nuestra concepción de la física, sin, por supuesto, estar exenta de polémica. 
+
+¿Cuántas veces habéis escuchado eso de que no se puede dividir entre 0? Pues precisamente eso encontró en 1916 Karl Schwarzschild: una solución para las ecuaciones de Einstein en la que existía un punto que inevitablemente creaba una división entre 0. Esta solución matemática describe un cuerpo esférico del cual nada, ni siquiera la luz, podría escapar. Pero lo más misterioso de todo es su centro, ya que ese punto “rompe” el espaciotiempo. Es decir, queda fuera del universo. Pensó en ello como un juego matemático y no como una solución que pudiera describir algo real. 
+
+Schwarzschild aún no lo sabía, pero había “descubierto” los agujeros negros (BH, del inglés Black Hole). La capa externa del BH es conocida como <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/agujeros/index.html#target">horizonte de sucesos</a>. Cualquier cosa que se encuentre dentro del horizonte no podrá escapar, ya que la velocidad necesaria para huir de la gravedad (velocidad de escape) es superior a la de la luz. Sin embargo, a medida que nos acercamos al horizonte de sucesos, la velocidad de escape disminuye, siendo el horizonte de sucesos la capa esférica en la que la velocidad de escape coincide con la velocidad de la luz. En el exterior de esta capa, por lo tanto, la luz puede huir del BH sin caer en él. Por otro lado, el punto central del BH es conocido como <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/agujeros/index.html#target">singularidad</a> y el radio de la esfera como radio de Schwarzschild. ¡Te lo has ganado, Karl!
+
+<figure>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-10-02-agujeros/esquemaBH.jpg" style="width:70%" class="center">
+	<figcaption> Esquema de un agujero negro de tipo Schwarzschild. Imagen original de Andrew Hamilton para Journey Into a Schwarzschild Black Hole.</figcaption>
+</figure>
+
+Una de las primeras preguntas que a uno le vienen a la cabeza es cómo pueden crearse estos objetos. A día de hoy conocemos la respuesta: nacen de la muerte de las estrellas más masivas. Al morir la estrella lo suficientemente masiva, nacerá un <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/agujeros/index.html#target">objeto compacto</a> de lo que antes era su núcleo: una enana blanca, una estrella de neutrones o un BH (ver la imagen de abajo). Los dos primeros objetos son capaces de mantener el colapso gravitatorio a raya debido a su composición. En el caso de las estrellas de neutrones, su radio es de aproximadamente de unos 12 km, pero pueden llegar a tener dos masas solares. Es decir, ¡una esfera de 12 km con la masa de dos soles! Como podréis imaginar, la materia de dentro de los objetos compactos está tan comprimida que las leyes físicas son llevadas al límite, por lo que los científicos las utilizan como laboratorios espaciales.
+
+<figure>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-10-02-agujeros/fateofstars.jpg" style="width:70%" class="center">
+	<figcaption> Creación de objetos compactos de origen estelar (Martínez-Pinedo, 2016).</figcaption>
+</figure>
+
+Las estrellas están en un equilibrio entre la fuerza gravitatoria, la cual tiende a juntar toda la masa, y una presión hacia el exterior como consecuencia de las reacciones nucleares de su interior. Si un astro no puede generar suficiente presión para contener su propia gravedad, colapsa. Por desgracia, esto también se cumple para las enanas blancas y estrellas de neutrones. El secreto está en la masa: si un objeto supera una masa crítica dependiente de su volumen o densidad, no hay nada que pueda hacer para enfrentarse a la gravedad y toda su materia cae a un punto, lo cual crea una singularidad y, consecuentemente, un BH. Por ejemplo, manteniendo la masa de la Tierra constante, su radio tendría que pasar a ser de 9 mm en vez de 6370 km para que se convirtiera en un BH. 
+
+Como veis, los BHs son los objetos más densos del universo. Aunque enormes en masa, son extremadamente pequeños en radio. Además, son los objetos más simples, ya que no debemos preocuparnos por su estructura interna: cualquier cosa que entre no podrá salir. Dicho de otra manera, lo que hay dentro de un horizonte de sucesos está causalmente desconectado del resto del universo, ya que no puede afectar al exterior de ninguna manera. En astrofísica, los tres parámetros necesarios para describir un BH son su masa, su carga y su spin o momento angular (<a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/agujeros/index.html#target">Teorema de No Pelo</a>). ¿Simple, verdad?
+
+La verdad es que no tanto. Los astrofísicos usamos los horizontes de sucesos como una alfombra debajo de la cual podemos esconder toda la porquería. Aceptamos todas las incongruencias o sinsentidos de una teoría siempre y cuando se encuentren más allá del horizonte de sucesos. Aunque los BHs por fuera parezcan simples, por dentro son uno de los objetos más enigmáticos que existen. 
+
+Ahora que ya sabemos qué son los BHs y de dónde vienen, vamos a complicar un poco el tema. Conseguir un horizonte de sucesos es algo que puede darse con cierta sencillez: solo necesitamos un astro tan denso como para que ni la luz pueda escapar a su gravedad. ¿Pero qué pasa con la singularidad? ¿Recordáis que os dije que estaba en el centro? Bueno… mentí. No se encuentra en el centro. De hecho, no se encuentra en ningún lugar.
+ 
+La Relatividad General nos explica que los cuerpos no se atraen entre sí por gravedad, sino que cada cuerpo deforma el espaciotiempo como si de una sábana se tratase y hace que los demás caigan a él. Y sí, la clave está en hablar de espaciotiempo, no espacio. El poder de un BH no es de mera atracción, sino que deforma el espaciotiempo de tal manera que todos los futuros posibles de un cuerpo que atraviesa su horizonte son llegar a la singularidad. Si entrásemos en un BH, no podríamos ver la singularidad, ya que no se encontraría en un punto concreto del espacio dentro del horizonte, sino en nuestro futuro. De manera inevitable, anduviésemos hacia delante o hacia detrás, corriésemos o nos quedáramos quietos, eventualmente la singularidad aparecería delante de nuestras narices y caeríamos a ella.
+
+<figure>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-10-02-agujeros/spacetime.jpg" style="width:70%" class="center">
+	<figcaption> Representación de cómo una masa deforma el espaciotiempo.</figcaption>
+</figure>
+
+Pero eso ni siquiera es lo más raro. Antes he mencionado que la singularidad no pertenece a nuestro universo. ¿Entonces, a dónde va a parar toda la materia que se traga un BH? Me temo que para eso no tenemos una respuesta. Las teorías aquí se vuelven completamente inconcluyentes. Algunas hablan de las singularidades como puertas a distintos universos (Multiverso), pero de esto y de otros misterios referentes a los BH hablaremos en otra ocasión.
+
+Por el momento, hemos de mencionar que existen otro tipos de estrellas teorizadas que, de ser ciertas, pueden evitar la existencia de las singularidades de los BH. Por poner un ejemplo y sin entrar mucho en detalle,  las estrellas de bariones podrían amontonar una infinidad de masa en un espacio muy reducido y crear su propio horizonte de sucesos. Sin embargo, ninguno de los objetos teorizados ha sido nunca hallado, por lo que la existencia de los BH sigue teniendo el consenso general entre astrofísicos y cosmólogos. Además, ¡hace poco hemos sacado la primera foto a un BH (debajo)!
+
+<figure>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-10-02-agujeros/BH2017.jpg" style="width:70%" class="center">
+	<figcaption> Imagen del agujero negro supermasivo de la galaxia M87 obtenida por el EHT (Event Horizon Telescope).</figcaption>
+</figure>
+
+Como veis, las películas se quedan cortas en lo que se refiere a los misteriosos BHs. Su naturaleza escapa a nuestra propia imaginación y posiblemente nunca consigamos resolver todas las respuestas que su mera existencia nos plantea. 
+
+*NOTA: El modelo de agujero negro aquí descrito es de tipo Schwarzschild y de masa estelar. Es decir, tiene origen estelar y carece de momento angular y carga. Lo elegimos así por simplicidad para los lectores que tienen un primer contacto, aunque no descartamos describir los tipo Kerr (con spin) o hablar de los supermasivos en un futuro.* 
+&nbsp;  
+&nbsp;
+
+<span style="font-size:1.5em"><a id="target" style= "color:black"><b>Glosario</b></a></span>
+&nbsp;   
+<span style="font-size:1.25em">
+**Horizonte de sucesos**: Superficie esférica del agujero negro dentro de la cual nada puede escapar. Por lo tanto, los eventos del interior no pueden afectar al exterior.                
+**Objeto compacto**: Remanente estelar como las enanas blancas,  estrellas de neutrones y agujeros negros.           
+**Singularidad**: Zona o punto del universo que no pertenece al espaciotiempo y en el cual no se pueden describir propiedades físicas. Suelen estar relacionados con agujeros negros.
+**Teorema de No Pelo**: Todas las soluciones descritas en la Relatividad General para los agujeros negros pueden ser caracterizadas desde el exterior por la masa, momento angular o spin (giro) y carga sin importar el origen del agujero.</span>
+{: .notice--primary} 
+
+
+---
+**Para saber más**
+* Recomendamos cualquier libro de Stephen Hawking (gran experto y divulgador) en el que trate el tema de los agujeros negros, especialmente: *A Brief History of Time: From the Big Bang to Black Holes, Stephen Hawking, Editorial: Bantam Books, 1988.* 
+
+* Libro mas avanzado que el anterior: *Agujeros negros y tiempo curvo: El escandaloso legado de Einstein, Kip Thorne, Editorial: W. W. Norton & Company, 1994.*
+
