@@ -72,6 +72,13 @@ Hemos reunido aquí a distintas disciplinas científicas para demostrar que la c
     <p><img src="https://github.com/CientificasErbias/blog/blob/master/assets/images/Dani1600x1200.jpg?raw=true" class="center"><br>Gasto todo mi dinero en viajes. Me gusta la naturaleza, el cine y la cerveza fría. Graduado en Biología y estudiando Ciencias Medioambientales a saltos por Europa. De pequeño mi sueño era poder grabar documentales y ahora que he madurado (pero poco), sueño con un planeta donde queramos y podamos preservar la naturaleza (y que otros lo graben, todo sea dicho).<b><br>#Cervezólogo</b></p>
   </div>
 </div>
+<div class="row">
+  <div class="column" style="background-color:#FFFFFF;">
+    <h3>Iraitz Gorroño Bikandi</h3>
+    <p><img src="https://github.com/CientificasErbias/blog/blob/master/assets/images/Iraitz1600x1200.jpg?raw=true" class="center"><br>Graduado en física y con un máster en astrofísica, invierto mi tiempo libre en viajes, windsurf, amigos y, por supuesto, buena cerveza. ¿Qué habrá ahí fuera? Es una pregunta que me hago desde que tengo memoria. Friki apasionado de los misterios que esconden los agujeros negros.
+ <b><br>#BlackBeer</b></p>
+  </div>
+</div>
 
 </body>
 </html>
