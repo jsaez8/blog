@@ -12,7 +12,7 @@ tags:
   - Cambio Climático
   - Física
   - Química ambiental
-  - Virología
+  - Patología
   - Biotecnología
 date: 2020-10-23 15:30:00 +0200
 --- 
