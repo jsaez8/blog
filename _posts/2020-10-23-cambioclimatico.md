@@ -101,14 +101,15 @@ Albedo por aquí, disminución de oxígeno por allá… Estos cambios tan drást
 
 Una de las aplicaciones de un estudio biotecnológico que se está llevando a cabo es transformar las plantas C3 en C4 (<a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target1">13</a>). Pausa, a ver qué significa esto. Como todos sabemos, las plantas realizan la fotosíntesis. Esto es que a partir de CO<sub>2</sub> y luz consiguen generar su propio alimento. Pero no todas las plantas realizan la fotosíntesis de la misma manera. Las plantas se dividen en tres grupos según cómo realicen la fotosíntesis: plantas C3, C4 y CAM. Estas diferencias permiten a las plantas adaptarse a distintos climas; las plantas C3 viven en climas más húmedos y fríos, mientras que las plantas C4 y CAM están preparadas para vivir en climas más áridos.
 
-<figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-10-23-cambioclimatico/fotosintesis.jpg"/>
-	<figcaption> Fotosíntesis en plantas C3, C4 y CAM. Figura adaptada por Intagri de Yamori et al., 2014.</figcaption>
-</figure>
-
 Veamos porqué puede ser una ventaja transformar plantas C3 en C4. Las plantas absorben el CO<sub>2</sub> por unos poros de la hoja denominados estomas, que se abren y se cierran según las necesidades fisiológicas de la planta. Este CO<sub>2</sub> es reconocido por una enzima que se denomina Rubisco para posteriormente generar glucosa como fuente de energía. En las plantas C3 todo esto se lleva a cabo en una misma célula, denominada la célula del mesófilo. En la apertura de los estomas para introducir CO<sub>2</sub> en estas células también entra O<sub>2</sub> y se libera agua al exterior, lo que genera dos problemas distintos. El primero, resolver el debate entre apertura y cierre de estomas, ya que la planta necesita absorber CO<sub>2</sub> pero no se puede permitir una gran pérdida de agua, problema que se agrava en climas áridos. El segundo viene por la enzima Rubisco. Esta enzima se encarga de transformar el CO<sub>2</sub> en otro compuesto orgánico, pero también es capaz de reconocer el O<sub>2</sub>, por lo que si entra mucho O<sub>2</sub> la planta pierde rendimiento en la fotosíntesis (fotooxidación). 
 
 Debido a las desventajas de este sistema, en climas donde el agua es un recurso limitado, las plantas C4 han desarrollado otro método por el cual pueden sobrevivir en climas más áridos. Este consiste en separar el proceso en dos células distintas. En la primera célula, la célula del mesófilo, se absorbe el CO<sub>2</sub>, el cual se transforma en un compuesto orgánico (malato) que se traslada a la segunda célula, denominada la célula de la vaina, donde se vuelve a generar CO<sub>2</sub> por la reacción opuesta y es en esta célula donde se lleva a cabo la propia fotosíntesis. Con esta simple separación de compartimentos, las plantas C4 consiguen sobrevivir en climas más áridos ya que necesitan abrir menos los estomas para captar el CO2 que necesitan, el O<sub>2</sub> no interactúa con la enzima Rubisco y disminuyen la pérdida de agua a través de la apertura estomática.
+
+
+<figure>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-10-23-cambioclimatico/Plantas_C3_C4.jpg"/>
+	<figcaption> Fotosíntesis en plantas C3 y C4.</figcaption>
+</figure>
 
 Como la temperatura en la Tierra va aumentando año tras año, las plantas C3, como por ejemplo la planta del arroz, no podrán sobrevivir a ciertos climas y nuestra alimentación se verá perjudicada. Por ello, se está investigando cómo transformar las plantas C3 en C4 utilizando herramientas de <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target">ingeniería genética</a>. El objetivo es implementar en las plantas C3 los genes necesarios para poder compartimentalizar el proceso y modificar las <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/index.html#target">rutas metabólicas</a> necesarias, todo un reto. 
 
