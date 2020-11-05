@@ -5,7 +5,7 @@ header:
   caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
   og_image: /assets/images/posts/2020-11-06-pendulo/columpio.jpg 
 categories:
-  - Viaje al centro de la ciencia
+  - Lo cotidiano es ciencia
 comments: true
 author_profile: true
 tags:
