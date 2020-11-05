@@ -16,7 +16,7 @@ date: 2020-11-06 15:30:00 +0200
 Hace unos días hicimos en Twitter siguiente encuesta:
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-11-06-pendulo/resultados.JPG"/>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-11-06-pendulo/resultados_encuesta.jpg"/>
 </figure>
 
 En primer lugar muchas gracias a los que participasteis, pero ahora preparamos el redoble de tambores para saber la respuesta correcta… ¡Ambos llegarán a la vez independientemente de lo que pesen! Es sorprendente como la intuición en estos casos nos juega malas pasadas y hace que nos equivoquemos. Pero, ¿cómo sabemos que nuestros dos protagonistas tardarán lo mismo en hacer su movimiento de vaivén? La respuesta la encontramos en la física de un péndulo simple, que es del que hablaremos hoy en esta publicación. Existen más tipos de péndulo, como el <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/lo%20cotidiano%20es%20ciencia/columpio_tictac/index.html#target">físico</a>, el <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/lo%20cotidiano%20es%20ciencia/columpio_tictac/index.html#target">esférico</a>, el <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/lo%20cotidiano%20es%20ciencia/columpio_tictac/index.html#target">doble</a>… pero estos los dejamos para otro día porque son mucho más complicados.
