@@ -29,7 +29,7 @@ Si movemos ligeramente la masa hacia un lado y la soltamos, esta empezará a osc
 Con las ecuaciones del mismísimo Isaac Newton podemos calcular cuál será el periodo de un péndulo con una <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/lo%20cotidiano%20es%20ciencia/columpio_tictac/index.html#target">amplitud</a> pequeña; este dependerá solo de la longitud de nuestro hilo y de la aceleración de la gravedad (g=9.8 m/s<sup>2</sup> en la Tierra). La expresión matemática (no huyáis que es fácil) que se obtiene es:
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-11-06-pendulo/eq1.JPG"/>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-11-06-pendulo/eq1.jpg"/>
 </figure>
 
 Por lo tanto si la longitud de nuestro hilo es 1 metro, el periodo de nuestro péndulo será aproximadamente 2 segundos. Como la masa del péndulo no aparece en esta ecuación, esto significa que el periodo de un columpio será el mismo independientemente de la masa de esa persona.
@@ -53,13 +53,13 @@ Con los ojos del siglo XXI esto no nos parece demasiado impresionante, pero en e
 Si os ha parecido poco, aún tenemos más. Este sencillo pero potente instrumento se usó, y se puede usar, para calcular la aceleración de la gravedad en la Tierra. Recordemos un poco las matemáticas del instituto. Partimos de la ecuación:
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-11-06-pendulo/eq2.JPG" width="60" height="15"/>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-11-06-pendulo/eq2.jpg" width="60" height="15"/>
 </figure>
 
 Si despejamos g, tendremos en un lado del igual el valor de la aceleración de la gravedad y en el otro el periodo del péndulo y la longitud del hilo.
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-11-06-pendulo/eq3.JPG"/>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-11-06-pendulo/eq3.jpg"/>
 </figure>
 
 Esto significa que si sabemos la longitud del hilo de nuestro péndulo y medimos con un reloj su periodo, podemos extraer el valor de la aceleración de la gravedad terrestre. Imaginemos el experimento que aparece en la siguiente figura. 
@@ -71,7 +71,7 @@ Esto significa que si sabemos la longitud del hilo de nuestro péndulo y medimos
 Tenemos un perezoso colgando de una liana que mide 10 metros. ¿Por qué? Porque ahora somos físicos teóricos podemos calcular lo que nos dé la gana. En un afán de diversión, el perezoso comienza a oscilar de un lado para otro y medimos que tarda 6.3 segundos en realizar una oscilación completa. Si sustituimos este periodo y la longitud de la liana en la ecuación obtenemos el valor de la aceleración de la gravedad:
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-11-06-pendulo/eq4.JPG" height="600"/>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-11-06-pendulo/eq4.jpg" height="600"/>
 </figure>
 
 El péndulo también fue usado por Léon Foucault en 1851 para demostrar que la Tierra gira sobre sí misma, aunque en esta ocasión no se usó un péndulo simple. La idea detrás de este experimento es un poco más complicada, por lo que lo dejaremos para una futura publicación. Además, las matemáticas del péndulo, también llamado oscilador armónico, les son especialmente útiles científicos para resolver problemas que no saben hacer de otra manera.
