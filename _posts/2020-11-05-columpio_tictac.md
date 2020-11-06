@@ -1,5 +1,5 @@
 ---
-title: "El tic-tac que hace un columpio."
+title: "El tic-tac que hace un columpio"
 header:
   image: /assets/images/CientificasErbias_reducida.jpg
   caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
