@@ -8,5 +8,7 @@ main:
     url: /tags/
   - title: "Sobre nosotros"
     url: /sobrenosotros/
+  - title: "Hilos en Twitter"
+    url: /hilosTwitter/
   # - title: "Sitemap"
   #   url: /sitemap/
