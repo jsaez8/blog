@@ -41,7 +41,7 @@ Además de escribir los posts también intentamos hacer minihilos en Twitter. Aq
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/hilos/mascarilla.jpg" style="width:40%;"/>
 </figure>
 
-[8. Antenas: porqué no te deben preocupar.](https://twitter.com/CientificasEr/status/1280877879295909893){:target="_blank"}  
+[8. Antenas: porqué no te deben preocupar](https://twitter.com/CientificasEr/status/1280877879295909893){:target="_blank"}  
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/hilos/antenas.png" style="width:40%;"/>
 </figure>
