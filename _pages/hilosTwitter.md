@@ -93,7 +93,7 @@ Además de escribir los posts también intentamos hacer minihilos en Twitter. Aq
 
 [18. Una de romanos y edulcorantes artificiales](https://twitter.com/CientificasEr/status/1317520678996893698){:target="_blank"}  
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/hilos/" style="width:40%;"/>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/hilos/romanos.jpg" style="width:40%;"/>
 </figure>
 [19. Astronautas de copas: hielo en la Luna](https://twitter.com/CientificasEr/status/1321551116841193474){:target="_blank"}  
 <figure>
