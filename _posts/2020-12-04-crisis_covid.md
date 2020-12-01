@@ -10,6 +10,8 @@ comments: true
 author_profile: true
 tags:
   - Colaboradores
+  - Coronavirus
+  - Opinión   
 --- 
 
 Mientras preparo los temas para las oposiciones docentes me ha dado por reflexionar sobre el sistema educativo y he llegado a la siguiente conclusión: el sistema actúa como catalizador de las revoluciones científicas en las mentes del alumnado.
