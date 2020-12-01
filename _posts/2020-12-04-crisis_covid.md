@@ -35,7 +35,7 @@ ddd
 **#HardCider**
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-12-04_crisis_covid/Aida1600x1200.jpg"/>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-12-04-crisis_covid/Aida1600x1200.jpg"/>
 </figure>
 
 ---
