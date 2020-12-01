@@ -32,7 +32,7 @@ La ciencia y las personas que nos dedicamos a ella investigando, divulgando o en
 
 ---
 
-**Biografía de la autora: Aida APELLIDOS**      
+**Biografía de la autora: Aída APELLIDOS**      
 Description
 
 <figure>
