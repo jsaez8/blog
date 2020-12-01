@@ -30,9 +30,8 @@ La ciencia y las personas que nos dedicamos a ella investigando, divulgando o en
 
 ---
 
-**Biografía de la autora: Aida asa**      
-ddd
-**#HardCider**
+**Biografía de la autora: Aida APELLIDOS**      
+Description
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-12-04-crisis_covid/Aida1600x1200.jpg"/>
