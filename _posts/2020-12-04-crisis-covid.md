@@ -11,6 +11,7 @@ author_profile: true
 tags:
   - Coronavirus
   - Opinión
+  - Colaboradores
 date: 2020-12-04 15:30:00 +0200
 ---
 
@@ -58,7 +59,7 @@ La ciencia y las personas que nos dedicamos a ella investigando, divulgando o en
   <span style="font-size:1.3em"><b>Sobre la autora</b></span><br>
   <img src="https://github.com/CientificasErbias/blog/blob/master/assets/images/posts/2020-12-03-crisis-covid/Aida1600x1200.jpg?raw=true" style="float:left">
   <span style="font-size:1.1em"><b>Aida López Serna</b></span>
-  <p>Quimica de formacion, profesora por vocacion y divulgadora por conviccion.<br>
+  <p>Química de formación, profesora por vocación y divulgadora por convicción.<br>
   <b>#CommunicationLover</b></p>
 </div>
 
