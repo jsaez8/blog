@@ -6,7 +6,6 @@ header:
   og_image: /assets/images/posts/2020-12-18-RosalindFranklin/header.png
 categories:
   - Lo que la ciencia se llevó
-published: true
 comments: true
 author_profile: true
 tags:
