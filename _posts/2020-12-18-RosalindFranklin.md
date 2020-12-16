@@ -12,6 +12,7 @@ tags:
   - Biología Molecular
   - Rayos X
   - Mujeres científicas
+date: 2020-12-18 15:30:00 +0200
 ---
 
 Se acabó el descanso, toca volver a clase. Me bebo el último sorbo de café y me dirijo de nuevo hacia el aula, en la que el profesor de <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/lo%20que%20la%20ciencia%20se%20llev%C3%B3/RosalindFranklin/index.html#target">Biología Molecular</a> ya está preparando las diapositivas para la explicación de hoy. 
