@@ -9,7 +9,7 @@ categories:
 comments: true
 author_profile: true
 tags:
-  - RayosX
+  - Rayos X
   - Biología estructural
   - Autobiografías
 date: 2020-09-25 15:30:00 +0200
