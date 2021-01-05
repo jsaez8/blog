@@ -9,8 +9,8 @@ categories:
 comments: true
 author_profile: true
 tags:
-  - Divulgación
   - Naturaleza
+  - Lobo
 date: 2020-06-26 15:30:00 +0200
 --- 
 
