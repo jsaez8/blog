@@ -12,7 +12,7 @@ author_profile: true
 tags:
    - Investigación biomédica
    - Salud
-   - Células madre de la sangre
+   - Células madre
 date: 2020-06-12 15:30:00 +0200 
 ---
 <<Ring, ring>>
