@@ -9,8 +9,7 @@ categories:
 comments: true
 author_profile: true
 tags:
-  - Microscopía fluorescencia
-  - Superresolución
+  - Microscopía
   - STED
   - SMLM
 date: 2020-07-17 15:30:00 +0200
