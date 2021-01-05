@@ -10,7 +10,6 @@ published: true
 comments: true
 author_profile: true
 tags:
-  - Bienvenida
   - Elementos químicos
   - Descubrimientos
   - Química
