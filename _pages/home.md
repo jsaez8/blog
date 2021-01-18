@@ -95,7 +95,7 @@ div.ex2 {
 
 Todas las imágenes bonitas son obra de <a href="https://www.instagram.com/chir_ii/?hl=en" target="_blank">@Chir_ii</a>, los demás hacemos lo que podemos.
 
-
+emails hay que programarlos y se pueden hacer desde muy sencillos a muy fancies
 <!-- Begin Mailchimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-10_7.css" rel="stylesheet" type="text/css">
 <style type="text/css">
