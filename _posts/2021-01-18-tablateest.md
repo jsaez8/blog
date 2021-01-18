@@ -1,0 +1,38 @@
+---
+title: "Tabla"
+header:
+  image: /assets/images/CientificasErbias_reducida.jpg
+  caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
+  og_image: /assets/images/posts/2020-11-06-pendulo/columpio.jpg 
+categories:
+  - Breaking Lab
+comments: true
+author_profile: true
+tags:
+  - Prueba 
+--- 
+
+| A | B |  C | D  |  E |
+|---|---|---|---|---|
+| 1  | 4  | 8 | 1  | 3  |
+|  2 |  5 |  7 |   |   |
+|  4 |  5 | 6  |   |   |
+
+| A | B | 
+|---|---|
+| 1  | La velocidad promedio a la cual se forman nuevas estrellas en nuestra galaxia  |
+|  2 |  la fracción de tales estrellas que tienen como mínimo un planeta | 
+|  4 |  el número promedio de planetas que potencialmente podrían albergar vida por estrella que tiene uno o más planetas | 
+|  4 |  fracción de planetas que efectivamente albergan vida de entre los que potencialmente podrían | 
+|  4 |  fracción de planetas con vida que desarrollan vida inteligente (i.e. civilizaciones) | 
+|  4 |  fracción de civilizaciones que desarrollan tecnología capaz de emitir señales detectables de su existencia al espacio | 
+|  4 |  el tiempo durante el cual dichas civilizaciones emiten las señales al espacio | 
+
+
+R* = La velocidad promedio a la cual se forman nuevas estrellas en nuestra galaxia
+fp = la fracción de tales estrellas que tienen como mínimo un planeta
+ne = el número promedio de planetas que potencialmente podrían albergar vida por estrella que tiene uno o más planetas
+fl = fracción de planetas que efectivamente albergan vida de entre los que potencialmente podrían
+fi = fracción de planetas con vida que desarrollan vida inteligente (i.e. civilizaciones)
+fc = fracción de civilizaciones que desarrollan tecnología capaz de emitir señales detectables de su existencia al espacio
+L = el tiempo durante el cual dichas civilizaciones emiten las señales al espacio
