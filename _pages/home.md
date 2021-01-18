@@ -128,4 +128,3 @@ emails hay que programarlos y se pueden hacer desde muy sencillos a muy fancies
 Otra opcion: requiere confirmacion de registro, manda email automaticamente
 <form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=probando1413251', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Escribe tu dirección de correo electrónico:</p><p><input type="text" style="width:140px" name="email"/></p><input type="hidden" value="probando1413251" name="uri"/><input type="hidden" name="loc" value="es_ES"/><input type="submit" value="Subscribete" /></form>
 
-Opcion link: <a href="https://feedburner.google.com/fb/a/mailverify?uri=probando1413251&amp;loc=es_ES">Subscribe to probando123 by Email</a>
