@@ -107,7 +107,7 @@ emails hay que programarlos y se pueden hacer desde muy sencillos a muy fancies
 <form action="https://hotmail.us7.list-manage.com/subscribe/post?u=6aaca36ebd40848c971dd275c&amp;id=05c458c4c8" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
     <div id="mc_embed_signup_scroll">
 	<h2>Subscribe</h2>
-<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="indicates-required"><span class="asterisk">*</span> campo obligatorio</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Dirección de correo  <span class="asterisk">*</span>
 </label>
@@ -126,6 +126,6 @@ emails hay que programarlos y se pueden hacer desde muy sencillos a muy fancies
 
 
 Otra opcion: requiere confirmacion de registro, manda email automaticamente
-<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=probando1413251', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Enter your email address:</p><p><input type="text" style="width:140px" name="email"/></p><input type="hidden" value="probando1413251" name="uri"/><input type="hidden" name="loc" value="es_ES"/><input type="submit" value="Subscribe" /><p>Delivered by <a href="https://feedburner.google.com" target="_blank">FeedBurner</a></p></form>
+<form style="border:1px solid #ccc;padding:3px;text-align:center;" action="https://feedburner.google.com/fb/a/mailverify" method="post" target="popupwindow" onsubmit="window.open('https://feedburner.google.com/fb/a/mailverify?uri=probando1413251', 'popupwindow', 'scrollbars=yes,width=550,height=520');return true"><p>Escribe tu dirección de correo electrónico:</p><p><input type="text" style="width:140px" name="email"/></p><input type="hidden" value="probando1413251" name="uri"/><input type="hidden" name="loc" value="es_ES"/><input type="submit" value="Subscribete" /></form>
 
 Opcion link: <a href="https://feedburner.google.com/fb/a/mailverify?uri=probando1413251&amp;loc=es_ES">Subscribe to probando123 by Email</a>
