@@ -105,3 +105,25 @@ Además de escribir los posts también intentamos hacer minihilos en Twitter. Aq
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/hilos/venus.png" style="width:40%;"/>
 </figure>
 
+[21. Ordenadores cuánticos](https://twitter.com/CientificasEr/status/1335576485479010304){:target="_blank"}  
+<figure>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/hilos/OrdenadorCuantico.png" style="width:40%;"/>
+</figure>
+
+[22. Memes científicos](https://twitter.com/CientificasEr/status/1346086796564770819){:target="_blank"}  
+<figure>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/hilos/Memes.jpg" style="width:40%;"/>
+</figure>
+
+[23. Ganímenes y señales de radio](https://twitter.com/CientificasEr/status/1349040669118103554){:target="_blank"}  
+<figure>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/hilos/Ganimedes.jpg" style="width:40%;"/>
+</figure>
+
+[24. Filomena y calentamiento global](https://twitter.com/CientificasEr/status/1350020313900216324){:target="_blank"}  
+<figure>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/hilos/Filomena.jpg" style="width:40%;"/>
+</figure>
+
+
+
