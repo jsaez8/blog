@@ -34,33 +34,12 @@ La ciencia y las personas que nos dedicamos a ella investigando, divulgando o en
 
 ---
 
+**Sobre la autora: Meri Herrero**      
+Química de formación, profesora por vocación y divulgadora por convicción. **#CommunicationLover**
 
-<style>
- *{
-  box-sizing: border-box;
-}
+<figure>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-12-03-crisis-covid/Aida1600x1200.jpg"/>
+</figure>
 
-.box {
-  width: 65%;
-  float: right;
-  padding: 15px;
-  background-color: #CCD4BF
-}
+---
 
-.box img {
- width: 40%;
- height: 40%;
- margin:10px;
-}
-</style>
-<body>
-
-<div class="box">
-  <span style="font-size:1.3em"><b>Sobre la autora</b></span><br>
-  <img src="https://github.com/CientificasErbias/blog/blob/master/assets/images/posts/2020-12-03-crisis-covid/Aida1600x1200.jpg?raw=true" style="float:left">
-  <span style="font-size:1.1em"><b>Aida López Serna</b></span>
-  <p>Química de formación, profesora por vocación y divulgadora por convicción.<br>
-  <b>#CommunicationLover</b></p>
-</div>
-
-</body>
