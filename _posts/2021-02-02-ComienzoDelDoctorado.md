@@ -79,7 +79,7 @@ Como frase final y que resume mis primeros meses y probablemente los siguientes 
 **Para saber más**
 * Aquí tenéis algunos ejemplos de ciencia básica en física que se convirtieron en aplicaciones muy útiles para la sociedad:
 	+ [Medicina](https://www.i-cpan.es/es/content/medicina){:target="_blank"}
-	+ [Tecnologías de la información y la Comunicación:](https://www.i-cpan.es/es/content/tecnolog%C3%ADas-de-la-informaci%C3%B3n-y-la-comunicaci%C3%B3n){:target="_blank"}
+	+ [Tecnologías de la información y la Comunicación](https://www.i-cpan.es/es/content/tecnolog%C3%ADas-de-la-informaci%C3%B3n-y-la-comunicaci%C3%B3n){:target="_blank"}
 	+ [Producción de energías](https://www.i-cpan.es/es/content/energ%C3%ADa){:target="_blank"}
 	+ [Arte y patrimonio](https://www.i-cpan.es/es/content/arte-y-patrimonio){:target="_blank"}
 
