@@ -72,7 +72,6 @@ Como frase final y que resume mis primeros meses y probablemente los siguientes 
 **Nanofabricación**: consiste en el diseño y producción de dispositivos que son de la escala de los nanómetros, llegando a ser posible la manipulación de moléculas y átomos. 
 
 **Comportamiento cuántico**: groso modo podemos separar la física en dos partes, la física clásica y la física cuántica. La clásica es la que observamos en nuestro día a día, mientras que la física cuántica la encontramos es sistemas un poco más “peculiares” y no necesariamente microscópicos. En un futuro próximo hablaremos de las diferencias entre lo clásico y lo cuántico.
-
 </span>
 {: .notice--primary}    
 
