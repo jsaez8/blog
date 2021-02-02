@@ -71,6 +71,19 @@ Como frase final y que resume mis primeros meses y probablemente los siguientes 
 </span>
 {: .notice--primary}   
 
+<span style="font-size:1.5em"><a id="target" style= "color:black"><b>Glosario</b></a></span>
+&nbsp;   
+<span style="font-size:1.25em">
+**Odonatos**: Orden de insectos con 6000 especies, incluyendo libélulas o caballitos del diablo. Presentan cabeza grande y abdomen largo y fino, acompañado por dos pares de alas membranosas.         
+**Bivalvos**: Clase perteneciente al filo de los moluscos, con 13000 especies mayormente marinas. Presentan dos valvas o conchas laterales cerrándose y abriéndose por la acción de los músculos (mejillones, navajas, ostras, etc.).         
+**Hábitat**: Lugar que presenta determinadas condiciones que permiten la vida de un determinado organismo o poblaciones de ese organismo.          
+**Moluscos**: Filo del reino animal. Son el grupo de animales invertebrados más numeroso después de los artrópodos. Se calcula que existen alrededor de 100.000 especies, tanto terrestres como acuáticas.      
+**Hospedador**: Organismo que alberga o transporta a otro, normalmente asociado a una relación de parasitismo, comensalismo o mutualismo.      
+**Larva**: Fase temprana en animales que presentan desarrollo indirecto, como la metamorfosis. Normalmente, las larvas presentan necesidades ecológicas distintas a las de la forma adulta.      
+**Estadística**: Rama de las matemáticas que estudia la variabilidad y procesos aleatorios basándose en las leyes de la probabilidad. En este caso concreto es la herramienta que utilizo para inferir conclusiones y entender un poco mejor cómo viven estos animales.
+</span>
+{: .notice--primary} 
+
 ---
 **Para saber más**
 * Aquí tenéis algunos ejemplos de ciencia básica en física que se convirtieron en aplicaciones muy útiles para la sociedad:
