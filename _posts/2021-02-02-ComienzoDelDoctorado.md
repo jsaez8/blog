@@ -66,11 +66,11 @@ Como frase final y que resume mis primeros meses y probablemente los siguientes 
 &nbsp;  
 **Investigación fundamental o ciencia básica**: así llamamos a la investigación que se realiza sin fines prácticos inmediatos y con el fin de incrementar el conocimiento que tenemos sobre la naturaleza. Aunque sus beneficios no son inmediatos, los resultados de la investigación básica han revolucionado nuestro estilo de vida. En “Para saber más” podéis encontrar ejemplos de investigación básica en física que después de años han encontrado aplicaciones muy fundamentales en nuestro día a día.
 &nbsp;
-**Cero absoluto**: es la temperatura más baja que se puede alcanzar y corresponde a -273,15 grados Celsius. &nbsp;
+**Cero absoluto**: es la temperatura más baja que se puede alcanzar y corresponde a -273,15 grados Celsius.
 &nbsp;
-**Nanofabricación**: consiste en el diseño y producción de dispositivos que son de la escala de los nanómetros, llegando a ser posible la manipulación de moléculas y átomos. &nbsp;
+**Nanofabricación**: consiste en el diseño y producción de dispositivos que son de la escala de los nanómetros, llegando a ser posible la manipulación de moléculas y átomos. 
 &nbsp;
-**Comportamiento cuántico**: groso modo podemos separar la física en dos partes, la física clásica y la física cuántica. La clásica es la que observamos en nuestro día a día, mientras que la física cuántica la encontramos es sistemas un poco más “peculiares” y no necesariamente microscópicos. En un futuro próximo hablaremos de las diferencias entre lo clásico y lo cuántico. &nbsp;
+**Comportamiento cuántico**: groso modo podemos separar la física en dos partes, la física clásica y la física cuántica. La clásica es la que observamos en nuestro día a día, mientras que la física cuántica la encontramos es sistemas un poco más “peculiares” y no necesariamente microscópicos. En un futuro próximo hablaremos de las diferencias entre lo clásico y lo cuántico.
 &nbsp;
 </span>
 {: .notice--primary}    
@@ -78,15 +78,9 @@ Como frase final y que resume mis primeros meses y probablemente los siguientes 
 ---
 **Para saber más**
 * Aquí tenéis algunos ejemplos de ciencia básica en física que se convirtieron en aplicaciones muy útiles para la sociedad:
-  -- Medicina
-  
-* Hemos aprendido que el periodo del péndulo depende de la longitud de la cuerda. Mirad qué ocurre cuando elegimos péndulos con distintas longitudes y los ponemos en fila: 
-<iframe width="1164" height="873" src="https://www.youtube.com/embed/yVkdfJ9PkRQ" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-* Por si alguno no se ha terminado de creer que el periodo no depende de la masa, ni de la amplitud de la oscilación (para amplitudes pequeñas), aquí tenéis todas las pruebas en un video. La demostración de la independencia de la masa os anticipo que es divertida. La podéis encontrar a partir del minuto 4:40. 
-
-<iframe width="1280" height="720" src="https://www.youtube.com/embed/RXhxD_Gy7Ig?t=280" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
-El protagonista de este video, Walter Lewin, exprofesor del MIT fue acusado de acoso sexual en el año 2014 y su título de profesor emérito del MIT le fue revocado. **Este caso, entre muchos otros, nos enseña que la excelencia científica no está asociada con la buena conducta personal**. [Nota de prensa del MIT](http://news.mit.edu/2014/lewin-courses-removed-1208){:target="_blank"}.
+	+ [Medicina](https://www.i-cpan.es/es/content/medicina){:target="_blank"}
+	+ [Tecnologías de la información y la Comunicación:](https://www.i-cpan.es/es/content/tecnolog%C3%ADas-de-la-informaci%C3%B3n-y-la-comunicaci%C3%B3n){:target="_blank"}
+	+ [Producción de energías](https://www.i-cpan.es/es/content/energ%C3%ADa){:target="_blank"}
+	+ [Arte y patrimonio](https://www.i-cpan.es/es/content/arte-y-patrimonio){:target="_blank"}
 
 * Además os recomendamos esta charla: [La sublime utilidad de la ciencia inútil](https://www.youtube.com/watch?v=2b6oki_uo2s ){:target="_blank"}
