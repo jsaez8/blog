@@ -57,6 +57,8 @@ Si alguno se pregunta si la mascarilla es por el coronavirus, la respuesta es no
 En muchos casos, el reto de comenzar un doctorado no se limita a una cuestión profesional, sino también personal. Muchos de nosotros nos mudamos a otro país para trabajar, lo que implica enfrentarse a muchas inquietudes en el plano personal: encontrar piso en una ciudad nueva, tener que rellenar papeles oficiales en un idioma que no conoces y echar de menos a los amigos y a la familia. Por supuesto también tiene su parte positiva, como es conocer un idioma nuevo y una cultura distinta, hacer nuevos amigos y tener nuevas aficiones. 
 
 Como frase final y que resume mis primeros meses y probablemente los siguientes años diré que como físico experimental me dedico a fabricar circuitos eléctricos muy muy pequeños para luego medirlos en un congelador extremadamente grande y frío para comprender el <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/crónica%20de%20un%20científico%20encerrado/ComienzoDelDoctorado/index.html#target">comportamiento cuántico</a> de los electrones. ¡Deseadme suerte!
+&nbsp;  
+&nbsp;
 
 <span style="font-size:1.5em"><a id="target" style= "color:black"><b>Glosario</b></a></span>
 &nbsp;   
