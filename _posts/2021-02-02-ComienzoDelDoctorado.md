@@ -82,6 +82,9 @@ Como frase final y que resume mis primeros meses y probablemente los siguientes 
 **Hospedador**: Organismo que alberga o transporta a otro, normalmente asociado a una relación de parasitismo, comensalismo o mutualismo.      
 **Larva**: Fase temprana en animales que presentan desarrollo indirecto, como la metamorfosis. Normalmente, las larvas presentan necesidades ecológicas distintas a las de la forma adulta.      
 **Estadística**: Rama de las matemáticas que estudia la variabilidad y procesos aleatorios basándose en las leyes de la probabilidad. En este caso concreto es la herramienta que utilizo para inferir conclusiones y entender un poco mejor cómo viven estos animales.
+**Físicos teóricos y experimentales**:
+**Investigación fundamental o ciencia básica**:
+**Cero absoluto**:
 </span>
 {: .notice--primary} 
 
