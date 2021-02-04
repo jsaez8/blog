@@ -18,7 +18,7 @@ date: 2020-11-06 15:30:00 +0200
 Probablemente, si te dicen que imagines cómo es un <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/crónica%20de%20un%20científico%20encerrado/ComienzoDelDoctorado/index.html#target">físico teórico</a>, te vendrá a la cabeza una persona como Sheldon Cooper, ególatra, extremadamente inteligente y muy pedante. Y si piensas en un <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/crónica%20de%20un%20científico%20encerrado/ComienzoDelDoctorado/index.html#target">físico experimental</a> pensarás en un hombre con bata, inmerso en la locura y mezclando pócimas en un laboratorio en el que todo puede estallar. 
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-02-02-ComienzoDelDoctorado/Sheldon.jpg"/>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-02-05-ComienzoDelDoctorado/Sheldon.jpg"/>
 </figure>
 
 Aunque podamos encontrar ejemplos como los de aquí arriba, la verdad es que no es ni de lejos representativo de la vida de los físicos ¿Qué es lo que realmente hacen los físicos en su día a día? Hoy os vengo a contar cómo ha sido mi vida, la vida de un físico experimental en los 6 primeros meses de su doctorado.
@@ -28,19 +28,19 @@ Primero, ¿qué es un doctorado? Cuando uno acaba sus estudios y le apasiona la 
 ¿Cómo ha sido mi día a día durante los últimos 6 meses? Pues como una imagen vale más que mil palabras, os lo voy a contar con imágenes. Aquí va la primera.
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-02-02-ComienzoDelDoctorado/Ordenador.jpg"/>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-02-05-ComienzoDelDoctorado/Ordenador.jpg"/>
 </figure>
 
 Sí, puede que parezca decepcionante, pero la mayor parte del tiempo lo he pasado delante de un ordenador. En este tiempo he estado leyendo y estudiando las publicaciones más importantes de mi campo de investigación, y para eso Internet es el mejor aliado. Un matiz fundamental es que en investigación no se aprende solo para saber, sino para descubrir lo desconocido. Además de estar aprendiendo las herramientas básicas para los próximos años, también intento encontrar un puñadito de preguntas que nadie se haya hecho antes e intentar responderlas diseñando experimentos. Con un poco de suerte aportaré mi granito de arena hacia el progreso de mi disciplina. Esto nos lleva al famoso laboratorio. ¿Has visto alguna vez un laboratorio de física por dentro? 
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-02-02-ComienzoDelDoctorado/Lab.jpeg"/>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-02-05-ComienzoDelDoctorado/Lab.jpeg"/>
 </figure>
 
 Este es otro de los lugares donde también he pasado mucho tiempo. Como podéis ver no hay probetas llenas de líquidos de colores y, sin embargo, todo está lleno de aparatos de dónde salen y entran cables. Esa especie de cilindro rojo es un congelador. Sí, aunque a nosotros nos encante llamarlo criostato, no nos vamos a engañar, es un congelador. La diferencia es que el interior del criostato está más frío que el espacio. Sí, efectivamente, es extremadamente frío. Mientras que el espacio está a una temperatura de unos -270 grados, el interior de nuestro congelador está a unos -273,13 grados, solo unas milésimas de grado por encima del <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/crónica%20de%20un%20científico%20encerrado/ComienzoDelDoctorado/index.html#target">cero absoluto</a>. Por si todo eso fuese poco, dentro hay un imán unas 1000 veces más potente que los imanes que pegamos en la puerta de la nevera. El resto de los aparatos que se ven son capaces de generar y medir voltajes muy pequeños y muy cortos en el tiempo. Todo lo que se puede ver en la imagen es el montaje experimental que necesito para llevar a cabo mis experimentos. Pero… ¿qué es lo que mido?
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-02-02-ComienzoDelDoctorado/Muestras.jpg"/>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-02-05-ComienzoDelDoctorado/Muestras.jpg"/>
 </figure>
 
 Esta es la apariencia que tienen mis muestras. Lo que estáis viendo es un chip de 6 por 6 milímetros, que es lo que se acabará introduciendo en nuestro enorme criostato. ¿Qué tiene este chip de especial? Esta muestra contiene 4 circuitos eléctricos en los que estudiaré el comportamiento de los electrones. Aunque no se ve en la imagen la parte mas pequeña, estos circuitos eléctricos tienen un tamaño de unos 100 nanómetros (aproximadamente el mismo tamaño que el coronavirus). Para hacernos una idea de la escala, si coges un milímetro y lo divides en 10 000 trocitos, el tamaño de uno de esos trozos es el tamaño de estos circuitos. Que no os engañe el tamaño, aunque sea tan pequeña tardé unas 20 horas en fabricar esta muestra.
@@ -50,7 +50,7 @@ La fabricación de estos circuitos tan pequeños se llama <a style="color:lights
 La nanofabricación en cierto modo se parece a la cocina. Para fabricar una de mis muestras solo tengo que seguir los pasos en orden, seguir una receta. A priori, uno piensa que todo va a ser fácil y al primer intento tendrá una muestra que funciona. Así de inocente era yo. La realidad es que aunque hagas la receta siempre igual, puede haber pequeños cambios en las máquinas o contaminaciones en los compuestos, haciendo que tu muestra tenga que ir directamente a la basura porque no va a funcionar. Y en muchas ocasiones uno no sabe ni qué ha ocurrido, como por ejemplo…
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2020-02-02-ComienzoDelDoctorado/SalaBlanca.jpg"/>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-02-05-ComienzoDelDoctorado/SalaBlanca.jpg"/>
 </figure>
 
 Si alguno se pregunta si la mascarilla es por el coronavirus, la respuesta es no. En las salas blancas siempre se llevan guantes para evitar dejar la grasa de los dedos por todas partes, gafas para proteger los ojos de productos químicos que se usan y una mascarilla para no ir soltando perdigones.
