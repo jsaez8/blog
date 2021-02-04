@@ -3,7 +3,7 @@ title: "Los físicos no somos Sheldon Cooper: el comienzo del doctorado"
 header:
   image: /assets/images/CientificasErbias_reducida.jpg
   caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
-  og_image: /assets/images/posts/2020-11-06-pendulo/columpio.jpg 
+  og_image: /assets/images/posts/2021-02-05-ComienzoDelDoctorado/Lab.jpeg
 categories:
   - Crónica de un científico encerrado
 comments: true
@@ -12,7 +12,7 @@ tags:
   - Física
   - Nanotecnología
   - Autobiografía
-date: 2020-11-06 15:30:00 +0200
+date: 2021-02-05 15:30:00 +0200
 --- 
 
 Probablemente, si te dicen que imagines cómo es un <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/crónica%20de%20un%20científico%20encerrado/ComienzoDelDoctorado/index.html#target">físico teórico</a>, te vendrá a la cabeza una persona como Sheldon Cooper, ególatra, extremadamente inteligente y muy pedante. Y si piensas en un <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/crónica%20de%20un%20científico%20encerrado/ComienzoDelDoctorado/index.html#target">físico experimental</a> pensarás en un hombre con bata, inmerso en la locura y mezclando pócimas en un laboratorio en el que todo puede estallar. 
