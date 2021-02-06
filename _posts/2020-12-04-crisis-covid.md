@@ -34,7 +34,7 @@ La ciencia y las personas que nos dedicamos a ella investigando, divulgando o en
 
 ---
 
-**Sobre la autora: Meri Herrero**      
+**Sobre la autora: Aida López Serna**      
 Química de formación, profesora por vocación y divulgadora por convicción. **#CommunicationLover**
 
 <figure>
