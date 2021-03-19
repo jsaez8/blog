@@ -8,7 +8,6 @@ categories:
   - Lo cotidiano es ciencia
 comments: true
 author_profile: true
-published: false
 tags:
   - Bioquímica
   - Cerveza
