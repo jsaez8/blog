@@ -8,10 +8,10 @@ categories:
   - Lo cotidiano es ciencia
 comments: true
 author_profile: true
-published: true
 tags:
   - Bioquímica
   - Cerveza
+date: 2021-03-19 15:30:00 +0200
 ---
 
 Es un sábado cualquiera (bueno, para este ejemplo concreto vamos a pensar en un sábado pre-pandemia). Entráis en vuestro bar favorito y pedís un vaso de cerveza. Pensad en ese vaso: espumoso, con un sabor amargo pero refrescante, un toque alcohólico de fondo… Seguro que a muchos de vosotros todo eso os resulta familiar pero, ¿alguna vez os habéis parado a pensar en la cantidad de química que tenéis delante? ¿Sabéis qué cantidad de bioquímica hay contenida en un pequeño (o no tan pequeño) vaso de cerveza?
