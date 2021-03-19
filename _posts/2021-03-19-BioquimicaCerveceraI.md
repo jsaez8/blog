@@ -58,10 +58,8 @@ Os dejamos un esquema del proceso de fermentación, sólo para que os hagáis un
 </figcaption>
 </figure>
 
-
 &nbsp;  
 &nbsp;
-
 <span style="font-size:1.5em"><a id="target" style= "color:black"><b>Glosario</b></a></span>
 &nbsp;   
 <span style="font-size:1.25em">
