@@ -27,7 +27,7 @@ Cuando tocamos un instrumento hacemos que el aire vibre y estas oscilaciones lle
 
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-04-02-MusicaYFisica_Guitarra/eq.png"/>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-04-02-MusicaYFisica_Guitarra/eq1.png"/>
 </figure>
 
 Lo que esta ecuación nos dice es:
