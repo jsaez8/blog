@@ -5,7 +5,7 @@ header:
   caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
   og_image: /assets/images/posts/2020-11-06-pendulo/columpio.jpg 
 categories:
-  - Viaje al centro de la ciencia
+  - Lo cotidiano es ciencia
 comments: true
 author_profile: true
 tags:
@@ -23,7 +23,7 @@ Cuando escuchamos un sonido, generalmente lo podemos clasificar por cómo de alt
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-04-01-MusicaYFisica_Guitarra/Ondas.jpg"/>
 </figure>
 
-Cuando tocamos un instrumento hacemos que el aire vibre y estas oscilaciones llegan a nuestros oídos y las percibimos como un sonido. Pero, ¿por qué las distintas notas no suenan igual? Vayamos al paso inicial, entendamos cómo vibran las cuerdas de un instrumento. Cuando tocamos con nuestro dedo la cuerda de una guitarra o el martillo percute en las cuerdas de un piano, estas empiezan a vibrar y emiten un sonido, que como ya sabemos tendrá una frecuencia y una amplitud asociadas. La amplitud de la onda dependerá de cómo de fuerte toquemos esa cuerda, mientras que la frecuencia está determinada por las características de la cuerda, en particular por su longitud, cómo de tensa esté y cómo de densa sea, es decir, cuánta masa tiene por cada unidad de longitud. **Disclaimer más abajo de que depende de más cosas**. A esta frecuencia la llamaremos frecuencia fundamental. Como a los físicos les gusta poner a las matemáticas siempre de por medio, escribamos la ecuación que nos da la frecuencia a la que vibrará una cuerda de longitud L, tensión T y densidad \mu:
+Cuando tocamos un instrumento hacemos que el aire vibre y estas oscilaciones llegan a nuestros oídos y las percibimos como un sonido. Pero, ¿por qué las distintas notas no suenan igual? Vayamos al paso inicial, entendamos cómo vibran las cuerdas de un instrumento. Cuando tocamos con nuestro dedo la cuerda de una guitarra o el martillo percute en las cuerdas de un piano, estas empiezan a vibrar y emiten un sonido, que como ya sabemos tendrá una frecuencia y una amplitud asociadas. La amplitud de la onda dependerá de cómo de fuerte toquemos esa cuerda, mientras que la frecuencia está determinada por las características de la cuerda, en particular por su longitud, cómo de tensa esté y cómo de densa sea, es decir, cuánta masa tiene por cada unidad de longitud. **Disclaimer más abajo de que depende de más cosas**. A esta frecuencia la llamaremos frecuencia fundamental. Como a los físicos les gusta poner a las matemáticas siempre de por medio, escribamos la ecuación que nos da la frecuencia a la que vibrará una cuerda de longitud L, tensión T y densidad $\mu$:
 
 EQUATION
 
