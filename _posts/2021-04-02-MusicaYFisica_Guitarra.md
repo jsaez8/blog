@@ -23,7 +23,7 @@ Cuando escuchamos un sonido, generalmente lo podemos clasificar por cómo de alt
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-04-02-MusicaYFisica_Guitarra/ondas.png"/>
 </figure>
 
-Cuando tocamos un instrumento hacemos que el aire vibre y estas oscilaciones llegan a nuestros oídos y las percibimos como un sonido. Pero, ¿por qué las distintas notas no suenan igual? Vayamos al paso inicial, entendamos cómo vibran las cuerdas de un instrumento. Cuando tocamos con nuestro dedo la cuerda de una guitarra o el martillo percute en las cuerdas de un piano, estas empiezan a vibrar y emiten un sonido, que como ya sabemos tendrá una frecuencia y una amplitud asociadas. La amplitud de la onda dependerá de cómo de fuerte toquemos esa cuerda, mientras que la frecuencia está determinada por las características de la cuerda, en particular por su longitud, cómo de tensa esté y cómo de densa sea, es decir, cuánta masa tiene por cada unidad de longitud. **Disclaimer más abajo de que depende de más cosas**. A esta frecuencia la llamaremos frecuencia fundamental. Como a los físicos les gusta poner a las matemáticas siempre de por medio, escribamos la ecuación que nos da la frecuencia a la que vibrará una cuerda de longitud L, tensión T y densidad <font face="Symbol">m</font>:
+Cuando tocamos un instrumento hacemos que el aire vibre y estas oscilaciones llegan a nuestros oídos y las percibimos como un sonido. Pero, ¿por qué las distintas notas no suenan igual? Vayamos al paso inicial, entendamos cómo vibran las cuerdas de un instrumento. Cuando tocamos con nuestro dedo la cuerda de una guitarra o el martillo percute en las cuerdas de un piano, estas empiezan a vibrar y emiten un sonido, que como ya sabemos tendrá una frecuencia y una amplitud asociadas. La amplitud de la onda dependerá de cómo de fuerte toquemos esa cuerda, mientras que la frecuencia está determinada por las características de la cuerda, en particular por su longitud, cómo de tensa esté y cómo de densa sea, es decir, cuánta masa tiene por cada unidad de longitud. A esta frecuencia la llamaremos frecuencia fundamental. Como a los físicos les gusta poner a las matemáticas siempre de por medio, escribamos la ecuación que nos da la frecuencia a la que vibrará una cuerda de longitud L, tensión T y densidad <font face="Symbol">m</font>:
 
 
 <figure>
@@ -61,6 +61,8 @@ Hasta ahora solo hemos hablado de la frecuencia fundamental, que es la frecuenci
 
 ---
 **Para saber más**
+* Anteriormente hemos escrito la ecuación que nos da la frecuencia fundamental en función de la longitud de la cuerda, su tensión y su densinsidad lineal. Esta expresión no es completamente exacta, puesto que no contiene otros parámetros que también afectan a dicha frecuencia; sin embargo, da un resultado bastante preciso para el objetivo de este post. 
+
 * Aquí tenéis algunos ejemplos de ciencia básica en física que se convirtieron en aplicaciones muy útiles para la sociedad:
 	+ [Medicina](https://www.i-cpan.es/es/content/medicina){:target="_blank"}
 	+ [Tecnologías de la información y la Comunicación](https://www.i-cpan.es/es/content/tecnolog%C3%ADas-de-la-informaci%C3%B3n-y-la-comunicaci%C3%B3n){:target="_blank"}
