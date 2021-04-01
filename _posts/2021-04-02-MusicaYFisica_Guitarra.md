@@ -63,10 +63,4 @@ Hasta ahora solo hemos hablado de la frecuencia fundamental, que es la frecuenci
 **Para saber más**
 * Anteriormente hemos escrito la ecuación que nos da la frecuencia fundamental en función de la longitud de la cuerda, su tensión y su densinsidad lineal. Esta expresión no es completamente exacta, puesto que no contiene otros parámetros que también afectan a dicha frecuencia; sin embargo, da un resultado bastante preciso para el objetivo de este post. 
 
-* Aquí tenéis algunos ejemplos de ciencia básica en física que se convirtieron en aplicaciones muy útiles para la sociedad:
-	+ [Medicina](https://www.i-cpan.es/es/content/medicina){:target="_blank"}
-	+ [Tecnologías de la información y la Comunicación](https://www.i-cpan.es/es/content/tecnolog%C3%ADas-de-la-informaci%C3%B3n-y-la-comunicaci%C3%B3n){:target="_blank"}
-	+ [Producción de energías](https://www.i-cpan.es/es/content/energ%C3%ADa){:target="_blank"}
-	+ [Arte y patrimonio](https://www.i-cpan.es/es/content/arte-y-patrimonio){:target="_blank"}
-
-* Además os recomendamos esta charla: [La sublime utilidad de la ciencia inútil](https://www.youtube.com/watch?v=2b6oki_uo2s ){:target="_blank"}
+* Para más información sobre cómo vibra una cuerda de una guitarra: [link](http://citharaworld.blogspot.com/2017/03/ecuacion-para-una-cuerda-de-guitarra.html){:target="_blank"}
