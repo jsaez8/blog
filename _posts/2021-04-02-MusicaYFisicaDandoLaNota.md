@@ -11,7 +11,7 @@ author_profile: true
 tags:
   - Física
   - Música
-date: 2021-04-01 15:30:00 +0200
+date: 2021-04-02 15:30:00 +0200
 --- 
 
 El ser humano conoce la música desde el origen de los tiempos. Da igual la cultura, la religión o el lugar donde nos encontremos los humanos, la música estará o estuvo presente. En la antigüedad usábamos instrumentos bastante rudimentarios y hoy en día podemos crear nuevas canciones con nuestros ordenadores sin la necesidad de ningún instrumento. Podemos disfrutar de la música sin saber tocar un instrumento, cantar una letra sin conocer su significado y ponernos tristes o contentos cuando escuchamos una canción que nos hace recordar el pasado. La música es universal y esconde entre sus melodías una ingente cantidad de matemáticas y de física. Hoy, la música y la física van de la mano en este post.
