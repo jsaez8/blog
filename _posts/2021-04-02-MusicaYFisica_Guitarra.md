@@ -67,3 +67,7 @@ Hasta ahora solo hemos hablado de la frecuencia fundamental, que es la frecuenci
 * Anteriormente hemos escrito la ecuación que nos da la frecuencia fundamental en función de la longitud de la cuerda, su tensión y su densinsidad lineal. Esta expresión no es completamente exacta, puesto que no contiene otros parámetros que también afectan a dicha frecuencia; sin embargo, da un resultado bastante preciso para el objetivo de este post. 
 
 * Para más información sobre cómo vibra una cuerda de una guitarra: [link](http://citharaworld.blogspot.com/2017/03/ecuacion-para-una-cuerda-de-guitarra.html){:target="_blank"}
+
+* [Matemáticas, música y Pitagoras](https://www.palermo.edu/ingenieria/downloads/CyT6/6CyT%2003.pdf){:target="_blank"}
+
+* Como pod'eis ver en esta [tabla de Wikipedia](https://es.wikipedia.org/wiki/Frecuencias_de_afinaci%C3%B3n_del_piano){:target="_blank"}, cada nota tiene asociada una frecuencia con mucha precisión.
