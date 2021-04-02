@@ -1,5 +1,5 @@
 ---
-title: "Música y física: afinando la guitarra"
+title: "Música y física: dando la nota"
 header:
   image: /assets/images/CientificasErbias_reducida.jpg
   caption: "Créditos: [**@Chir_ii**](https://www.instagram.com/chir_ii/?hl=en)"
@@ -18,17 +18,17 @@ El ser humano conoce la música desde el origen de los tiempos. Da igual la cult
 
 ¿Por qué un tambor emite sonido cuando lo golpeamos? ¿Por qué las cuerdas de un violín suenan al hacerlas vibrar? ¿Por qué dos notas suenan distintas? Hay muchas preguntas que se nos pasan por la cabeza, pero empecemos por algo más básico: ¿qué tiene que ver la música con la física? La música la percibimos como un sonido, es decir, ondas que se propagan al chocar unas moléculas de aire contra otras transmitiendo una vibración. Si hablamos de ondas, la física entra en juego.
  
-Cuando escuchamos un sonido, generalmente lo podemos clasificar por cómo de alto o bajo lo oímos y si es grave o agudo. Asociando esto con un lenguaje un poco más técnico, el sonido es una onda que se propaga por el aire, si el volumen es alto/bajo significa que la amplitud de la onda es grande/pequeña, mientras que si es agudo/grave diremos que la frecuencia es alta/baja. Por ejemplo, un sonido de 18 <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/lo%20cotidiano%20es%20ciencia/MusicaYFisica_Guitarra//index.html#target">kHz</a> de frecuencia lo percibimos como algo muy agudo, mientras que un sonido de 200 Hz es muy grave. Cada sonido tiene una frecuencia asociada, por lo que también cada nota musical tiene una frecuencia que podríamos decir que es su carné de identidad. Por ejemplo, el La4 tiene una frecuencia de 440 Hz mientras que el Do4 tiene una frecuencia de 262 Hz, es decir, que la amplitud de La varía más rápidamente que la de Do como se puede ver en la siguiente figura. Además, vemos que para la misma frecuencia, el máximo y el mínimo de la amplitud pueden ser distintos, lo que significa que podemos escuchar la misma nota con más o menos volumen.
+Cuando escuchamos un sonido, generalmente lo podemos clasificar por cómo de alto o bajo lo oímos y si es grave o agudo. Asociando esto con un lenguaje un poco más técnico, el sonido es una onda que se propaga por el aire, si el volumen es alto/bajo significa que la amplitud de la onda es grande/pequeña, mientras que si es agudo/grave diremos que la frecuencia es alta/baja. Por ejemplo, un sonido de 18 <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/lo%20cotidiano%20es%20ciencia/MusicaYFisicaDandoLaNota/index.html#target">kHz</a> de frecuencia lo percibimos como algo muy agudo, mientras que un sonido de 200 Hz es muy grave. Cada sonido tiene una frecuencia asociada, por lo que también cada nota musical tiene una frecuencia que podríamos decir que es su carné de identidad. Por ejemplo, el La4 tiene una frecuencia de 440 Hz mientras que el Do4 tiene una frecuencia de 262 Hz, es decir, que la amplitud de La varía más rápidamente que la de Do como se puede ver en la siguiente figura. Además, vemos que para la misma frecuencia, el máximo y el mínimo de la amplitud pueden ser distintos, lo que significa que podemos escuchar la misma nota con más o menos volumen.
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-04-02-MusicaYFisica_Guitarra/ondas.png"/>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-04-02-MusicaYFisicaDandoLaNota/ondas.png"/>
 </figure>
 
 Cuando tocamos un instrumento hacemos que el aire vibre y estas oscilaciones llegan a nuestros oídos y las percibimos como un sonido. Pero, ¿por qué las distintas notas no suenan igual? Vayamos al paso inicial, entendamos cómo vibran las cuerdas de un instrumento. Cuando tocamos con nuestro dedo la cuerda de una guitarra o el martillo percute en las cuerdas de un piano, estas empiezan a vibrar y emiten un sonido, que como ya sabemos tendrá una frecuencia y una amplitud asociadas. La amplitud de la onda dependerá de cómo de fuerte toquemos esa cuerda, mientras que la frecuencia está determinada por las características de la cuerda, en particular por su longitud, cómo de tensa esté y cómo de densa sea, es decir, cuánta masa tiene por cada unidad de longitud. A esta frecuencia la llamaremos frecuencia fundamental. Como a los físicos les gusta poner a las matemáticas siempre de por medio, escribamos la ecuación que nos da la frecuencia a la que vibrará una cuerda de longitud L, tensión T y densidad <font face="Symbol">m</font>:
 
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-04-02-MusicaYFisica_Guitarra/eq1.jpg"/>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-04-02-MusicaYFisicaDandoLaNota/eq1.jpg"/>
 </figure>
 
 Lo que esta ecuación nos dice es:
@@ -39,7 +39,7 @@ Lo que esta ecuación nos dice es:
 ¿Cómo podemos comprobar si todo esto es cierto o no? Pensemos en un instrumento que nos es familiar más o menos a todos. Una guitarra tiene 6 cuerdas, todas de la misma longitud. Siendo un poco observadores nos damos cuenta de que las cuerdas están hechas de dos materiales distintos, unas son de nylon (1, 2 y 3 en la imagen) y otras están recubiertas de metal (4, 5 y 6) y tienen distintos grosores, la cuerda 6 es la más gruesa y la 1 es la más fina. Estas diferencias hacen que la densidad de las cuerdas sean distintas, siendo la cuerda 6 la más densa, y por tanto más grave, y la cuerda 1 la menos densa y la que suena más agudo. ¡Hemos comprobado el punto 1 de nuestra ecuación!
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-04-02-MusicaYFisica_Guitarra/guitarra.png"/>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-04-02-MusicaYFisicaDandoLaNota/guitarra.png"/>
 </figure>
 
 Cuando un instrumento está desafinado, simplemente significa que el sonido tiene una frecuencia distinta a la que debería tener, por lo que hay que hallar la frecuencia correcta. De vez en cuando podemos ver como los guitarristas afinan sus guitarras moviendo las clavijas de la parte superior de la guitarra tensando o destensando las cuerdas. En otras palabras, los guitarristas cambian la tensión de las cuerdas para que la frecuencia de vibración sea la de la nota adecuada.
