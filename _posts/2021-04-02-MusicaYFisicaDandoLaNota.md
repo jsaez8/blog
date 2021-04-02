@@ -71,4 +71,4 @@ Hasta ahora solo hemos hablado de la frecuencia fundamental, que es la frecuenci
 
 * [Matemáticas, música y Pitagoras](https://www.palermo.edu/ingenieria/downloads/CyT6/6CyT%2003.pdf){:target="_blank"}
 
-* Como pod'eis ver en esta [tabla de Wikipedia](https://es.wikipedia.org/wiki/Frecuencias_de_afinaci%C3%B3n_del_piano){:target="_blank"}, cada nota tiene asociada una frecuencia con mucha precisión.
+* Como podéis ver en esta [tabla de Wikipedia](https://es.wikipedia.org/wiki/Frecuencias_de_afinaci%C3%B3n_del_piano){:target="_blank"}, cada nota tiene asociada una frecuencia con mucha precisión.
