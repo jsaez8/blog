@@ -57,6 +57,7 @@ Hasta ahora solo hemos hablado de la frecuencia fundamental, que es la frecuenci
 <span style="font-size:1.5em"><a id="target" style= "color:black"><b>Glosario</b></a></span>
 &nbsp;   
 <span style="font-size:1.25em">
+**Amplitud y frecuencia**: como hemos mencionado, la amplitud y la frecuencia de una onda definen cómo de alto o bajo es un sonido y como de grave o agudo lo escuchamos, respectivamente. La frecuencia es el número de oscilaciones que una partícula realiza en un segundo. En cambio, la amplitud de oscilación es la distancia entre los entre los dos puntos más alejados de la partícula cuando vibra.  <br>
 **Hercio**: el hercio es la unidad de medida de la frecuencia y su abreviatura es Hz. Cuando decimos que algo vibra con 10 Hz de frecuencia significa que en un segundo completa 10 oscilaciones. Al igual que 1 kg son 1000 gramos, 1 kHz son 1000 Hz.
 <br>
 </span>
