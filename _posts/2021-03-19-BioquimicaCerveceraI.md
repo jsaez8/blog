@@ -54,7 +54,7 @@ Os dejamos un esquema del proceso de fermentación, sólo para que os hagáis un
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-03-19-BioquimicaCerveceraI/Cerveza.jpg"/>
-	<figcaption> Este es el resultado de nuestro intento de elaboración de cerveza casera. No tiene mala pinta, ¿verdad?. 
+	<figcaption> Este es el resultado de nuestro intento de elaboración de cerveza casera. No tiene mala pinta, ¿verdad? 
 </figcaption>
 </figure>
 
