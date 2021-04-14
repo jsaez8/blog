@@ -15,9 +15,13 @@ date: 2021-04-02 15:30:00 +0200
 --- 
 
 ¿Serías capaz de reconocer tu canción favorita si un músico la toca con distintos instrumentos? Seguro que sí. En principio, sabiendo la sucesión de notas de esa canción y dónde se encuentran en el instrumento podemos tocar nuestra canción favorita. Sin embargo, siendo las mismas notas, somos capaces de diferenciar si el instrumento es una guitarra, un piano o una flauta. Pero, un momento, ¿qué es lo que diferencia una nota La en un piano, de la nota La en un violín? Esta simple pregunta esconde gran cantidad de física y es uno de los puntos de unión entre las matemáticas, la física y la música.
+
 En nuestro anterior post de música y física aprendimos que cada nota de la escala musical tiene una frecuencia fundamental distinta, por lo que su sonido es distinto. Los sonidos con mayor frecuencia los percibimos más agudos que los que tienen una frecuencia menor. También aprendimos que lo que define una nota en la escala musical es su frecuencia fundamental, por ejemplo el La tiene una frecuencia de 440 Hz mientras que un Do 262 Hz. Como vimos en el caso de los instrumentos de cuerda, la frecuencia fundamental depende de algunas propiedades de las cuerdas y podemos conseguir la misma frecuencia en dos instrumentos distintos. Pero un momento, hemos dicho que cada nota se identifica con una frecuencia y que ajustando las propiedades de las cuerdas podemos conseguir la misma frecuencia fundamental en dos instrumentos distintos, entonces: ¿cómo puede ser que ambos instrumentos suenen distinto? Parece ser que la frecuencia fundamental no lo es todo.
+
 Además de vibrar en la frecuencia fundamental, una cuerda puede vibrar a otras muchas frecuencias mayores, siempre y cuando sean múltiplos enteros de la frecuencia fundamental. Imaginemos que la frecuencia fundamental de nuestra cuerda son 100 Hz, por lo tanto también podrá vibrar a 200 Hz , 300 Hz, 400 Hz… produciendo sonidos más agudos. A estas frecuencias las llamaremos armónicos. Esto matemáticamente lo escribimos como:
+
 F_n = n*f_0
+
 Donde n indica el armónico, F_n la frecuencia del armónico y f_0 es la frecuencia fundamental. Aunque esto de los armónicos parezca raro, solo quiere decir que la cuerda puede vibrar de muchas formas distintas pero muy bien definidas, como podemos ver en la siguiente imagen. En el fundamental, o primer armónico, toda la cuerda se mueve de un lado para otro manteniendo fijos sus extremos, el segundo armónico mantiene un punto fijo en mitad de la cuerda y un lado se mueve para arriba y el otro para abajo; el tercer armónico tiene dos puntos fijos mientras que el resto de la cuerda oscila, etc. Cuando vemos una cuerda de la guitarra vibrar lo está haciendo de todas esas maneras que vemos al mismo tiempo.
 
 <figure>
@@ -56,7 +60,9 @@ En general, las cuerdas de los instrumentos musicales vibran en muchos armónico
 </figure>
 
 Podemos observar que, aunque la nota es la misma, la cantidad de armónicos y la intensidad de estos es distinta en el piano y en la guitarra. ¡Esto es lo que les otorga su sonido característico a cada uno! La guitarra presenta un mayor número de armónicos y con mayor intensidad, lo que significa que tiene más sonidos agudos y más altos que el piano. Esta distribución de armónicos e intensidades se denomina timbre y es la que nos permite diferenciar dos sonidos que tienen la misma frecuencia fundamental.
+
 Quizás algunos os estéis preguntando si todo esto es aplicable a los instrumentos de viento. La respuesta es sí, cada instrumento de viento tiene su timbre característico. En este caso no hay ninguna cuerda que vibre, sino que son las propias ondas sonoras dentro del instrumento las que vibran con distintas frecuencias fundamentales y distintos armónicos. ¿Y qué hay de los tambores? Hoy ya no tenemos espacio para esto, pero podéis encontrar un link en ‘Para saber más’.
+
 Por supuesto que todos los sonidos tienen un espectro de frecuencias, por lo que podemos obtener el espectro de un coche, de una canción o incluso de nuestra propia voz. Aunque todo esto suene exótico, es algo que podemos hacer en nuestra propia casa con una aplicación en el móvil. Os dejamos el enlace a una app tanto para Android y para IOS para que juguéis y exploréis los espectros de frecuencias de distintos sonidos.
 
 &nbsp;  
