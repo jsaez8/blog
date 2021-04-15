@@ -20,7 +20,7 @@ date: 2021-04-02 15:30:00 +0200
 
 ¿Serías capaz de reconocer tu canción favorita si un músico la toca con distintos instrumentos? Seguro que sí. En principio, sabiendo la sucesión de notas de esa canción y dónde se encuentran en el instrumento podemos tocar nuestra canción favorita. Sin embargo, siendo las mismas notas, somos capaces de diferenciar si el instrumento es una guitarra, un piano o una flauta. Pero, un momento, ¿qué es lo que diferencia una nota La en un piano, de la nota La en un violín? Esta simple pregunta esconde gran cantidad de física y es uno de los puntos de unión entre las matemáticas, la física y la música.
 
-En nuestro [anterior post](https://cientificaserbias.github.io/blog/lo%20cotidiano%20es%20ciencia/MusicaYFisicaDandoLaNota/){:target="_blank"} de música y física aprendimos que cada nota de la escala musical tiene una frecuencia fundamental distinta, por lo que su sonido es distinto. Los sonidos con mayor frecuencia los percibimos más agudos que los que tienen una frecuencia menor. También aprendimos que lo que define una nota en la escala musical es su frecuencia fundamental, por ejemplo, el La tiene una frecuencia de 440 Hz mientras que un Do 262 Hz. Como vimos en el caso de los instrumentos de cuerda, la frecuencia fundamental depende de algunas propiedades de las cuerdas y podemos conseguir la misma frecuencia en dos instrumentos distintos. Pero un momento, hemos dicho que cada nota se identifica con una frecuencia y que ajustando las propiedades de las cuerdas podemos conseguir la misma frecuencia fundamental en dos instrumentos distintos, entonces: ¿cómo puede ser que ambos instrumentos suenen distinto? Parece ser que la frecuencia fundamental no lo es todo.
+En nuestro [anterior post](https://cientificaserbias.github.io/blog/lo%20cotidiano%20es%20ciencia/MusicaYFisicaDandoLaNota/){:target="_blank"} de música y física aprendimos que cada nota de la escala musical tiene una <a style="color:lightslategray" href="https://cientificaserbias.github.io/blog/lo%20cotidiano%20es%20ciencia/MusicaYFisicaDandoLaNota/index.html#target">frecuencia fundamental</a> distinta, por lo que su sonido es distinto. Los sonidos con mayor frecuencia los percibimos más agudos que los que tienen una frecuencia menor. También aprendimos que lo que define una nota en la escala musical es su frecuencia fundamental, por ejemplo, el La tiene una frecuencia de 440 Hz mientras que un Do 262 Hz. Como vimos en el caso de los instrumentos de cuerda, la frecuencia fundamental depende de algunas propiedades de las cuerdas y podemos conseguir la misma frecuencia en dos instrumentos distintos. Pero un momento, hemos dicho que cada nota se identifica con una frecuencia y que ajustando las propiedades de las cuerdas podemos conseguir la misma frecuencia fundamental en dos instrumentos distintos, entonces: ¿cómo puede ser que ambos instrumentos suenen distinto? Parece ser que la frecuencia fundamental no lo es todo.
 
 Además de vibrar en la frecuencia fundamental, una cuerda puede vibrar a otras muchas frecuencias mayores, siempre y cuando sean múltiplos enteros de la frecuencia fundamental. Imaginemos que la frecuencia fundamental de nuestra cuerda son 100 Hz, por lo tanto también podrá vibrar a 200 Hz , 300 Hz, 400 Hz… produciendo sonidos más agudos. A estas frecuencias las llamaremos armónicos. Esto matemáticamente lo escribimos como:
 
@@ -75,9 +75,8 @@ Por supuesto que todos los sonidos tienen un espectro de frecuencias, por lo que
 <span style="font-size:1.5em"><a id="target" style= "color:black"><b>Glosario</b></a></span>
 &nbsp;   
 <span style="font-size:1.25em">
-**Hercio**: el hercio es la unidad de medida de la frecuencia y su abreviatura es Hz. Cuando decimos que algo vibra con 10 Hz de frecuencia significa que en un segundo completa 10 oscilaciones. Al igual que 1 kg son 1000 gramos, 1 kHz son 1000 Hz.
+**Frecuencia fundamental**: la frecuencia fundamental es la frecuencia más baja a la que puede vibrar una cuerda y la que define la nota musical. Si queires saber más detalles, lee nuestro primer post de física y música.
 <br>
-**Amplitud y frecuencia**: como hemos mencionado, la amplitud y la frecuencia de una onda definen cómo de alto o bajo es un sonido y como de grave o agudo lo escuchamos, respectivamente. La frecuencia es el número de oscilaciones que una partícula realiza en un segundo. En cambio, la amplitud de oscilación es la distancia entre los entre los dos puntos más alejados de la partícula cuando vibra.  <br>
 </span>
 {: .notice--primary}   
 
@@ -85,8 +84,7 @@ Por supuesto que todos los sonidos tienen un espectro de frecuencias, por lo que
 **Para saber más**
 * ¿Qué ocurre cuando vemos a cámara lenta las cuerdas de una guitarra? [Link](https://www.youtube.com/watch?v=8YGQmV3NxMIl){:target="_blank"}
 
-* Para más información sobre cómo vibra una cuerda de una guitarra: [link](http://citharaworld.blogspot.com/2017/03/ecuacion-para-una-cuerda-de-guitarra.html){:target="_blank"}
+* Para más información sobre cómo vibra una cuerda de una guitarra: [¿Y qué hay sobre los tambores?](https://www.youtube.com/watch?v=X96olZ1kiKI){:target="_blank"}
 
-* [Matemáticas, música y Pitágoras](https://www.palermo.edu/ingenieria/downloads/CyT6/6CyT%2003.pdf){:target="_blank"}
+* **Descargar aplicación para medir espectros.** [Phyphox](https://phyphox.org/){:target="_blank"} es una aplicación gratuita para IOS y Android que te permite usar los sensores de tu teléfono para divertirte y hacer experimentos sin necesidad de otros instrumentos. Aquí pudes descargar la applicación para [Android](https://play.google.com/store/apps/details?id=de.rwth_aachen.phyphox&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1){:target="_blank"} e [IOS](https://apps.apple.com/us/app/phyphox/id1127319693?l=es&ls=1){:target="_blank"}
 
-* Como podéis ver en esta [tabla de Wikipedia](https://es.wikipedia.org/wiki/Frecuencias_de_afinaci%C3%B3n_del_piano){:target="_blank"}, cada nota tiene asociada una frecuencia con mucha precisión.
