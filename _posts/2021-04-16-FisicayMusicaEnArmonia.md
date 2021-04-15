@@ -24,7 +24,7 @@ En nuestro [anterior post](https://cientificaserbias.github.io/blog/lo%20cotidia
 
 Además de vibrar en la frecuencia fundamental, una cuerda puede vibrar a otras muchas frecuencias mayores, siempre y cuando sean múltiplos enteros de la frecuencia fundamental. Imaginemos que la frecuencia fundamental de nuestra cuerda son 100 Hz, por lo tanto también podrá vibrar a 200 Hz , 300 Hz, 400 Hz… produciendo sonidos más agudos. A estas frecuencias las llamaremos armónicos. Esto matemáticamente lo escribimos como:
 
-f_n = n f_0
+$$f_n = n f_0$$
 
 Donde n indica el armónico, F_n la frecuencia del armónico y f_0 es la frecuencia fundamental. Aunque esto de los armónicos parezca raro, solo quiere decir que la cuerda puede vibrar de muchas formas distintas pero muy bien definidas, como podemos ver en la siguiente imagen. En el fundamental, o primer armónico, toda la cuerda se mueve de un lado para otro manteniendo fijos sus extremos, el segundo armónico mantiene un punto fijo en mitad de la cuerda y un lado se mueve para arriba y el otro para abajo; el tercer armónico tiene dos puntos fijos mientras que el resto de la cuerda oscila, etc. Cuando vemos una cuerda de la guitarra vibrar lo está haciendo de todas esas maneras que vemos al mismo tiempo.
 
