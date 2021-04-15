@@ -26,7 +26,7 @@ Además de vibrar en la frecuencia fundamental, una cuerda puede vibrar a otras 
 
 $$f_n = n f_0$$
 
-Donde n indica el armónico, F_n la frecuencia del armónico y f_0 es la frecuencia fundamental. Aunque esto de los armónicos parezca raro, solo quiere decir que la cuerda puede vibrar de muchas formas distintas pero muy bien definidas, como podemos ver en la siguiente imagen. En el fundamental, o primer armónico, toda la cuerda se mueve de un lado para otro manteniendo fijos sus extremos, el segundo armónico mantiene un punto fijo en mitad de la cuerda y un lado se mueve para arriba y el otro para abajo; el tercer armónico tiene dos puntos fijos mientras que el resto de la cuerda oscila, etc. Cuando vemos una cuerda de la guitarra vibrar lo está haciendo de todas esas maneras que vemos al mismo tiempo.
+Donde n indica el armónico, $f_n$ la frecuencia del armónico y $f_0$ es la frecuencia fundamental. Aunque esto de los armónicos parezca raro, solo quiere decir que la cuerda puede vibrar de muchas formas distintas pero muy bien definidas, como podemos ver en la siguiente imagen. En el fundamental, o primer armónico, toda la cuerda se mueve de un lado para otro manteniendo fijos sus extremos, el segundo armónico mantiene un punto fijo en mitad de la cuerda y un lado se mueve para arriba y el otro para abajo; el tercer armónico tiene dos puntos fijos mientras que el resto de la cuerda oscila, etc. Cuando vemos una cuerda de la guitarra vibrar lo está haciendo de todas esas maneras que vemos al mismo tiempo.
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-04-16-FisicayMusicaEnArmonia/Arm_wiki.png"/>
@@ -83,7 +83,7 @@ Por supuesto que todos los sonidos tienen un espectro de frecuencias, por lo que
 
 ---
 **Para saber más**
-* Anteriormente hemos escrito la ecuación que nos da la frecuencia fundamental en función de la longitud de la cuerda, su tensión y su densinsidad lineal. Esta expresión no es completamente exacta, puesto que no contiene otros parámetros que también afectan a dicha frecuencia; sin embargo, da un resultado bastante preciso para el objetivo de este post. 
+* ¿Qué ocurre cuando vemos a cámara lenta las cuerdas de una guitarra? [Link](https://www.youtube.com/watch?v=8YGQmV3NxMIl){:target="_blank"}
 
 * Para más información sobre cómo vibra una cuerda de una guitarra: [link](http://citharaworld.blogspot.com/2017/03/ecuacion-para-una-cuerda-de-guitarra.html){:target="_blank"}
 
