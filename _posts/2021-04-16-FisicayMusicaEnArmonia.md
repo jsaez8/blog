@@ -84,7 +84,7 @@ Por supuesto que todos los sonidos tienen un espectro de frecuencias, por lo que
 **Para saber más**
 * ¿Qué ocurre cuando vemos a cámara lenta las cuerdas de una guitarra? [Link](https://www.youtube.com/watch?v=8YGQmV3NxMIl){:target="_blank"}
 
-* Para más información sobre cómo vibra una cuerda de una guitarra: [¿Y qué hay sobre los tambores?](https://www.youtube.com/watch?v=X96olZ1kiKI){:target="_blank"}
+* ¿Y qué hay sobre los tambores y los armónicos? [Link](https://www.youtube.com/watch?v=X96olZ1kiKI){:target="_blank"}
 
 * **Descargar aplicación para medir espectros.** [Phyphox](https://phyphox.org/){:target="_blank"} es una aplicación gratuita para IOS y Android que te permite usar los sensores de tu teléfono para divertirte y hacer experimentos sin necesidad de otros instrumentos. Aquí puedes descargar la applicación para [Android](https://play.google.com/store/apps/details?id=de.rwth_aachen.phyphox&utm_source=global_co&utm_medium=prtnr&utm_content=Mar2515&utm_campaign=PartBadge&pcampaignid=MKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1){:target="_blank"} e [IOS](https://apps.apple.com/us/app/phyphox/id1127319693?l=es&ls=1){:target="_blank"}
 
