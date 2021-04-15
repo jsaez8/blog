@@ -51,7 +51,7 @@ Cuando existen distintos armónicos en una misma cuerda, las ondas se suman supe
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-04-16-FisicayMusicaEnArmonia/Armonicos2.jpg"/>
 </figure>
 
-A medida que añadimos más armónicos las vibraciones de la cuerda se vuelven algo más complejas y es complicado diferenciar qué armónicos contiene y qué amplitud tiene cada uno de ellos. Para solucionar este problema, también podemos representar la amplitud de cada modo de vibración en función de la frecuencia, de esta manera podemos saber cómo de alto suena cada frecuencia de una manera sencilla. A esto le llamamos espectro de frecuencias y así sería para la última onda que representamos con los tres primeros armónicos.
+A medida que añadimos más armónicos, las vibraciones de la cuerda se vuelven algo más complejas y es complicado diferenciar qué armónicos contiene y qué amplitud tiene cada uno de ellos. Para solucionar este problema, también podemos representar la amplitud de cada modo de vibración en función de la frecuencia, de esta manera podemos saber cómo de alto suena cada frecuencia de una manera sencilla. A esto le llamamos espectro de frecuencias y así sería para la última onda que representamos con los tres primeros armónicos.
 
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-04-16-FisicayMusicaEnArmonia/Espectro.jpg"/>
