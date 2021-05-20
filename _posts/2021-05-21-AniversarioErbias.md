@@ -68,3 +68,7 @@ Como mencionamos antes, escribir un post lleva una cantidad de tiempo no desprec
 Por último nos gustaría daros las gracias a todos los que pasáis frecuentemente por aquí y a los que solo venís de vez en cuando, y recordaros que seguiremos activos en redes todo lo que podamos y que cualquier comentario, duda o sugerencia se recibirá con las manos abiertas.
 
 Cheers!
+
+<figure>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-05-21-AniversarioErbias/Cerves1.jpg"/>
+</figure>
