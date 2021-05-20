@@ -21,8 +21,7 @@ Este viaje ha sido y es completamente nuevo para todas nosotras, por lo que esta
 
 Poco a poco también hemos descubierto que las redes sociales son todo un mundo. Un mundo un tanto desconcertante: nuestro tweet con más likes y retweets ni siquiera lo hicimos nosotras. Pero, oye, lo citamos correctamente y seguiremos intentando que nuestros hilos triunfen.
 
-
-TUIT
+<blockquote class="twitter-tweet" data-lang="es"><p lang="es" dir="ltr">Historia de las pandemias: un resumen de todas pandemias a las que ha sobrevivido la humanidad en una sola imagen. <a href="https://t.co/RnpOX89bKG">pic.twitter.com/RnpOX89bKG</a></p>&mdash; Científicas Erbias (@CientificasEr) <a href="https://twitter.com/CientificasEr/status/1354703691962572801?ref_src=twsrc%5Etfw">28 de enero de 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
  
 Pero no todo es escribir. Al ser un grupo multidisciplinar nosotras también aprendemos con los posts de otras Erbias y con los de todos los colaboradores que se han animado a escribir cosas tan interesantes como estas (Link). 
 
