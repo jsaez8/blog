@@ -23,10 +23,14 @@ Poco a poco también hemos descubierto que las redes sociales son todo un mundo.
 
 <blockquote class="twitter-tweet" tw-align-center data-lang="es"><p lang="es" dir="ltr">Historia de las pandemias: un resumen de todas pandemias a las que ha sobrevivido la humanidad en una sola imagen. <a href="https://t.co/RnpOX89bKG">pic.twitter.com/RnpOX89bKG</a></p>&mdash; Científicas Erbias (@CientificasEr) <a href="https://twitter.com/CientificasEr/status/1354703691962572801?ref_src=twsrc%5Etfw">28 de enero de 2021</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
  
-Pero no todo es escribir. Al ser un grupo multidisciplinar nosotras también aprendemos con los posts de otras Erbias y con los de todos los colaboradores que se han animado a escribir cosas tan interesantes como estas (Link). 
+Pero no todo es escribir. Al ser un grupo multidisciplinar nosotras también aprendemos con los posts de otras Erbias y con los de todos los colaboradores que se han animado a escribir cosas tan interesantes como estas:
 
+* Adrián Molina Vargas - [Las tijeras moleculares CRISPR-Cas9 reciben el Nobel de Química](https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/crispr/){:target="_blank"}
+* Aida López Serna - [La crisis de la COVID-19](https://cientificaserbias.github.io/blog/breaking%20lab/crisis-covid/){:target="_blank"}
+* Laura Sotodosos Alonso - [Rosalind Franklin: La historia de la fotografía que cambió la biología](https://cientificaserbias.github.io/blog/lo%20que%20la%20ciencia%20se%20llev%C3%B3/RosalindFranklin/){:target="_blank"}
+* Meri Herrero - [Más allá de lo que vemos: En busca de vida inteligente](https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/drake/){:target="_blank"}
 
-¡Gracias! Este siempre será vuestro club. 
+¡Gracias! Siempre sereis bienvenidos en este club.
 
 Además, el Día de la Mujer y la Niña en la Ciencia dos de nosotras salieron de sus laboratorios para ir al colegio Cardenal Spínola a dar una charla. Esta fue nuestra primera actividad presencial y estamos deseando poder hacer más en cuanto la pandemia lo permita. Quizá, incluso, nos animemos a tomarnos unas cervecitas después y a conocernos en persona, que aunque no lo creáis, algunas de nosotras solo nos conocemos a través de una pantalla.
 
