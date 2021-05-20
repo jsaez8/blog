@@ -43,7 +43,7 @@ Durante este año, el blog ha recibido más de 12.500 visitas. ¡Muchísimas gra
 Como podéis ver, al principio recibimos muchas visitas y luego se estabilizó en la nada despreciable cifra de 200 visitas mensuales.
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-04-16-FisicayMusicaEnArmonia/Arm_wiki.png"/>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-05-21-AniversarioErbias/visits.jpg"/>
 </figure>
 
 Pie de figura: número de visitas mensuales que ha recibido nuestro blog en azul y número de publicaciones cada mes en rojo. En mayo de 2020, todo empezó con una gran difusión y acogida entre nuestros amigos y familiares, que entraron a ver nuestra web y nuestros primeros posts. El ritmo frenético de visitas y de 4 posts mensuales atrajo a mucha gente a nuestro blog y después de un pequeño descanso veraniego, hemos conseguido estabilizar el número de visitas a unas 200 mensuales publicando dos veces al mes.
@@ -52,7 +52,7 @@ Pie de figura: número de visitas mensuales que ha recibido nuestro blog en azul
 ¿Y cómo llegáis a nuestro blog? Pues bueno, la mitad de las visitas son a través de compartir links del blog, ya sean por redes sociales, a través de emails o aplicaciones de mensajería. Otro 20% buscándonos en Google y del 30% restante, no tenemos ni idea, puesto que Google analytics no nos lo especifica y no sabemos cómo interpretarlo. En cuanto a las redes sociales, Twitter y Facebook atraen prácticamente al mismo número de usuarios, 45% y 39% respectivamente. La siguiente red social es Instagram con 12% y hemos recibido visitas de otras redes, como Linkedin y Menéame.
 
 <figure>
-	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-04-16-FisicayMusicaEnArmonia/Arm_wiki.png"/>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-05-21-AniversarioErbias/PieCharts.jpg"/>
 </figure>
 
 Bueno, ¿y cuáles son los posts que más habéis leído? Pues aquí los tenéis por si tenéis ganas de leerlos de nuevo u os perdisteis alguno:
