@@ -20,6 +20,9 @@ Nuestros inicios se remontan a marzo del 2020, entre birrallamadas internacional
 Este viaje ha sido y es completamente nuevo para todas nosotras, por lo que estamos aprendiendo mucho. Rápidamente nos dimos cuenta de la cantidad de tiempo que requiere escribir un buen post (o al menos intentarlo). Durante el confinamiento parecía que teníamos más tiempo, pero la nueva normalidad trajo con ella sus propios retos y tuvimos que pasar de publicar cada semana a dos veces al mes.
 
 Poco a poco también hemos descubierto que las redes sociales son todo un mundo. Un mundo un tanto desconcertante: nuestro tweet con más likes y retweets ni siquiera lo hicimos nosotras. Pero, oye, lo citamos correctamente y seguiremos intentando que nuestros hilos triunfen.
+
+
+TUIT
  
 Pero no todo es escribir. Al ser un grupo multidisciplinar nosotras también aprendemos con los posts de otras Erbias y con los de todos los colaboradores que se han animado a escribir cosas tan interesantes como estas (Link). 
 
@@ -28,27 +31,34 @@ Pero no todo es escribir. Al ser un grupo multidisciplinar nosotras también apr
 
 Además, el Día de la Mujer y la Niña en la Ciencia dos de nosotras salieron de sus laboratorios para ir al colegio Cardenal Spínola a dar una charla. Esta fue nuestra primera actividad presencial y estamos deseando poder hacer más en cuanto la pandemia lo permita. Quizá, incluso, nos animemos a tomarnos unas cervecitas después y a conocernos en persona, que aunque no lo creáis, algunas de nosotras solo nos conocemos a través de una pantalla.
 
-Poner video 11F
+
+{% include video id="11sdtgYl7CVd_UhoAC4ztOcxJtQKoAOMb" provider="google-drive" %}
 
 Vale, muy bonito, pero… ¿hay alguien ahí?
 Durante este año, el blog ha recibido más de 12.500 visitas. ¡Muchísimas gracias a todos los que os habéis pasado!
 
 Como podéis ver, al principio recibimos muchas visitas y luego se estabilizó en la nada despreciable cifra de 200 visitas mensuales.
 
+<figure>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-04-16-FisicayMusicaEnArmonia/Arm_wiki.png"/>
+</figure>
 
 Pie de figura: número de visitas mensuales que ha recibido nuestro blog en azul y número de publicaciones cada mes en rojo. En mayo de 2020, todo empezó con una gran difusión y acogida entre nuestros amigos y familiares, que entraron a ver nuestra web y nuestros primeros posts. El ritmo frenético de visitas y de 4 posts mensuales atrajo a mucha gente a nuestro blog y después de un pequeño descanso veraniego, hemos conseguido estabilizar el número de visitas a unas 200 mensuales publicando dos veces al mes.
 
 
 ¿Y cómo llegáis a nuestro blog? Pues bueno, la mitad de las visitas son a través de compartir links del blog, ya sean por redes sociales, a través de emails o aplicaciones de mensajería. Otro 20% buscándonos en Google y del 30% restante, no tenemos ni idea, puesto que Google analytics no nos lo especifica y no sabemos cómo interpretarlo. En cuanto a las redes sociales, Twitter y Facebook atraen prácticamente al mismo número de usuarios, 45% y 39% respectivamente. La siguiente red social es Instagram con 12% y hemos recibido visitas de otras redes, como Linkedin y Menéame.
 
+<figure>
+	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-04-16-FisicayMusicaEnArmonia/Arm_wiki.png"/>
+</figure>
 
 Bueno, ¿y cuáles son los posts que más habéis leído? Pues aquí los tenéis por si tenéis ganas de leerlos de nuevo u os perdisteis alguno:
 
-El lobo que transformó el río
-Rayos X: Un poco de suerte y mucha radiación
-Amigo Félix
-Bombardeando al virus: ¡Jabón aplasta!
-La cosa está que arde y más que lo va a estar
+* [El lobo que transformó el río](https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cascadastroficas/){:target="_blank"}
+* [Rayos X: Un poco de suerte y mucha radiación](https://cientificaserbias.github.io/blog/lo%20que%20la%20ciencia%20se%20llev%C3%B3/rayos-x/){:target="_blank"}
+* [Amigo Félix](https://cientificaserbias.github.io/blog/lo%20que%20la%20ciencia%20se%20llev%C3%B3/amigofelix/){:target="_blank"}
+* [Bombardeando al virus: ¡Jabón aplasta!](https://cientificaserbias.github.io/blog/lo%20cotidiano%20es%20ciencia/jabon-aplasta/){:target="_blank"}
+* [La cosa está que arde y más que lo va a estar](https://cientificaserbias.github.io/blog/viaje%20al%20centro%20de%20la%20ciencia/cambioclimatico/){:target="_blank"}
 
 Como mencionamos antes, escribir un post lleva una cantidad de tiempo no despreciable. Aunque a veces hablamos de cosas de nuestra vida diaria, otras necesitamos documentarnos y entender cosas nuevas, además de escribir y corregir los posts que escriben nuestras compañeras. Puesto que llevamos desde septiembre publicando sin descanso, hemos decidido darnos unas semanas de vacaciones para coger fuerzas y nuevas ideas para seguir dando guerra.
 
