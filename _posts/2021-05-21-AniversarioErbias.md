@@ -35,7 +35,7 @@ Pero no todo es escribir. Al ser un grupo multidisciplinar nosotras también apr
 Además, el Día de la Mujer y la Niña en la Ciencia dos de nosotras salieron de sus laboratorios para ir al colegio Cardenal Spínola a dar una charla. Esta fue nuestra primera actividad presencial y estamos deseando poder hacer más en cuanto la pandemia lo permita. Quizá, incluso, nos animemos a tomarnos unas cervecitas después y a conocernos en persona, que aunque no lo creáis, algunas de nosotras solo nos conocemos a través de una pantalla.
 
 
-{% include video id="11sdtgYl7CVd_UhoAC4ztOcxJtQKoAOMb" provider="google-drive" %}
+{% include video id="1ZyRNtYRyYvgc94Ogog9CbEYPMRyf66AN" provider="google-drive" %}
 
 Vale, muy bonito, pero… ¿hay alguien ahí?
 Durante este año, el blog ha recibido más de 12.500 visitas. ¡Muchísimas gracias a todos los que os habéis pasado!
