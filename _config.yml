@@ -279,11 +279,10 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: # true
+      comments: true # true
       share: true
       related: true
 
-comments: true
 # The URL for the staticman API bridge endpoint
 # You will want to modify some of the values:
 #  ${github-username}: the username of the account with which you publish your blog
