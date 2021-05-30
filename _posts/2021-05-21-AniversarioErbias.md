@@ -71,3 +71,8 @@ Cheers!
 <figure>
 	<img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/2021-05-21-AniversarioErbias/Cerves1.jpg"/>
 </figure>
+
+
+{% if page.comments == true %}
+  {% include comments.html %}
+{% endif %}
